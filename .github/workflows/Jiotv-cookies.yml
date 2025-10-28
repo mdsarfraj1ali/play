@@ -1,0 +1,99 @@
+name: Update JioTV Playlist Cookies
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cookies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # ✅ Fixed: No 'ag' typo
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update cookies in Jiotv.json (Clean JSON)
+        run: |
+          python -c '
+          import json
+          import requests
+          from urllib.parse import urlparse, parse_qs
+          import time
+          import os
+
+          API_URL = "https://jo-json.vodep39240327.workers.dev"
+          PLAYLIST_FILE = "Jiotv.json"
+
+          def extract_hdnea(url):
+              try:
+                  query = parse_qs(urlparse(url).query)
+                  cookie = query.get("__hdnea__", [None])[0]
+                  return f"__hdnea__={cookie}" if cookie else None
+              except:
+                  return None
+
+          def get_cookie():
+              for _ in range(3):
+                  try:
+                      r = requests.get(API_URL, timeout=15)
+                      r.raise_for_status()
+                      for info in r.json().values():
+                          if isinstance(info, dict) and "url" in info:
+                              c = extract_hdnea(info["url"])
+                              if c: return c
+                  except: time.sleep(5)
+              return None
+
+          if not os.path.exists(PLAYLIST_FILE):
+              print("File not found!")
+              exit(1)
+
+          with open(PLAYLIST_FILE) as f:
+              data = json.load(f)
+
+          cookie = get_cookie()
+          if not cookie:
+              print("Failed to get cookie")
+              exit(1)
+
+          for ch in data:
+              ch["cookie"] = cookie
+
+          with open(PLAYLIST_FILE, "w") as f:
+              json.dump(data, f, indent=2, sort_keys=True)
+              f.write("\n")  # Only one newline at end
+
+          print("Jiotv.json updated with new cookie (clean format)")
+          '
+
+      - name: Commit and Push (Force Update via Committer Date)
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+
+          git add Jiotv.json
+
+          # Force commit even if content is same — by changing committer date
+          export GIT_COMMITTER_DATE="$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git commit --date="$GIT_COMMITTER_DATE" -m "Auto update: __hdnea__ cookie refreshed"
+
+          git push
+          echo "File updated and pushed (clean JSON, no extra content)"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
