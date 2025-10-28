@@ -1,0 +1,85 @@
+name: Auto Update Fancode Playlist
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Run every 30 minutes
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Fetch & Update Fancode Playlist
+        run: |
+          python - <<EOF
+          import requests
+          import json
+          from time import sleep
+
+          url = "https://raw.githubusercontent.com/abid58b/FanCodePlaylist/main/fancode.json"
+          data = {"matches": []}
+          for attempt in range(3):
+              try:
+                  r = requests.get(url, timeout=10)
+                  r.raise_for_status()
+                  content = r.text.strip()
+                  if content and not content.startswith('---'):
+                      try:
+                          data = json.loads(content)
+                      except json.JSONDecodeError:
+                          data = {"matches": []}
+                  break
+              except requests.exceptions.RequestException:
+                  if attempt == 2:
+                      data = {"matches": []}
+                  sleep(2)
+
+          playlist = []
+          for i, item in enumerate(data.get('matches', []), 1):
+              streaming_cdn = item.get('STREAMING_CDN', {})
+              link = streaming_cdn.get('Primary_Playback_URL', item.get('adfree_stream', ''))
+              if isinstance(link, str) and link.endswith('.m3u8'):
+                  image_cdn = item.get('image_cdn', {})
+                  playlist.append({
+                      "logo": image_cdn.get('TATAPLAY', 'https://images.fancode.com/default-logo.png'),
+                      "name": item.get('title', f'Live Match {i}')[:100],
+                      "link": link
+                  })
+
+          if not playlist:
+              playlist = [{
+                  "logo": "https://images.fancode.com/default-logo.png",
+                  "name": "No Live Matches Available - Check Back Later",
+                  "link": ""
+              }]
+
+          with open('Fancode.json', 'w') as f:
+              json.dump(playlist, f, indent=2)
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Fancode.json
+          git commit -m "Update Fancode.json at $(date -u +'%Y-%m-%d %H:%M:%S UTC') - ID $(cat /proc/sys/kernel/random/uuid)" || true
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
