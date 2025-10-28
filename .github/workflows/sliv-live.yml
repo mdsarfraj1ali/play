@@ -1,0 +1,86 @@
+name: Auto Update SonyLiv Playlist
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Run every 30 minutes
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Fetch & Update SonyLiv Playlist
+        run: |
+          python - <<EOF
+          import requests
+          import json
+          import os
+
+          url = "https://raw.githubusercontent.com/abid58b/SonyLivPlayList/main/sonyliv.json"
+          try:
+              r = requests.get(url, timeout=10)
+              r.raise_for_status()
+              content = r.text.strip()
+              print(f"Raw content length: {len(content)}")
+              data = json.loads(content) if content else {}
+          except requests.RequestException as e:
+              print(f"Error fetching data: {e}")
+              data = {}
+          except json.JSONDecodeError as e:
+              print(f"Error parsing JSON: {e}")
+              data = {}
+
+          playlist = []
+          matches = data.get('matches', [])
+          for item in matches:
+              link = item.get('dai_url') or item.get('pub_url') or item.get('video_url') or ''
+              if isinstance(link, str) and '.m3u8' in link:
+                  playlist.append({
+                      "logo": item.get('src', 'https://origin-staticv2.sonyliv.com/default-logo.jpg'),
+                      "name": item.get('match_name', 'Live Match')[:100],
+                      "link": link
+                  })
+                  print(f"Added: {item.get('match_name', 'Unknown')} -> {link[-50:]}")
+
+          # Check if playlist has changed before writing
+          output_file = 'SonyLiv.json'
+          old_content = ''
+          if os.path.exists(output_file):
+              with open(output_file, 'r') as f:
+                  old_content = f.read()
+
+          new_content = json.dumps(playlist, indent=2)
+          if new_content != old_content:
+              with open(output_file, 'w') as f:
+                  f.write(new_content)
+              print(f"Updated {output_file} with {len(playlist)} items")
+          else:
+              print("No changes in playlist, skipping write")
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add SonyLiv.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update SonyLiv.json"
+            git push
+            echo "Changes committed and pushed"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
