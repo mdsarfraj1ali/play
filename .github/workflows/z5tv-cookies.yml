@@ -1,0 +1,49 @@
+name: Update Zee5 Cookie Update 
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Har 6 ghante me
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download z5.m3u
+        run: curl -fsS https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u -o z5.m3u
+
+      - name: Extract Valid hdntl Cookie
+        id: cookie
+        run: |
+          # Sirf valid format wala cookie le (hdntl=exp=...~hmac=...)
+          COOKIE=$(grep -o 'hdntl=exp=[0-9]\+~acl=%2f\*~data=hdntl~hmac=[a-f0-9]\{64\}' z5.m3u | head -1)
+          
+          if [[ -z "$COOKIE" || ! "$COOKIE" =~ ^hdntl=exp=[0-9]+~acl=%2f\*~data=hdntl~hmac=[a-f0-9]{64}$ ]]; then
+            echo "Valid cookie not found!"
+            exit 1
+          fi
+          
+          echo "value=$COOKIE" >> $GITHUB_OUTPUT
+          echo "Found valid cookie: $COOKIE"
+
+      - name: Update Cookie in Zee5.json (All Channels)
+        run: |
+          jq --arg c "${{ steps.cookie.outputs.value }}" '.[] |= (.cookie = $c)' Zee5.json > tmp.json && mv tmp.json Zee5.json
+
+      - name: Commit & Push (Only if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
+          git add Zee5.json
+          if git diff --staged --quiet; then
+            echo "Cookie already up to date"
+          else
+            git commit -m "Update valid hdntl cookie [skip ci]"
+            git push
+          fi
