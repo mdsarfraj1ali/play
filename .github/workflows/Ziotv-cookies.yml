@@ -1,0 +1,165 @@
+name: Update ZioTV Cookies Update 
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours (0:00, 6:00, 12:00, 18:00 UTC)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-cookies:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Full history for git operations
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Install requests library
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # Debug: Check for Ziotv.json (case-insensitive)
+      - name: Check initial Ziotv.json
+        run: |
+          echo "Checking for Ziotv.json (case-insensitive)"
+          ls -l [Zz][Ii][Oo][Tt][Vv].[Jj][Ss][Oo][Nn] || echo "No Ziotv.json found"
+          if [ -f Ziotv.json ]; then
+            echo "Initial Ziotv.json content:"
+            cat Ziotv.json
+          elif [ -f ziotv.json ]; then
+            echo "Found ziotv.json, renaming to Ziotv.json"
+            mv ziotv.json Ziotv.json
+            echo "Initial Ziotv.json content:"
+            cat Ziotv.json
+          else
+            echo "Error: Ziotv.json not found"
+            exit 1
+          fi
+
+      # Fetch cookies and update Ziotv.json
+      - name: Update cookies in Ziotv.json
+        run: |
+          python - <<EOF
+          import requests
+          import json
+          import re
+          import os
+          from datetime import datetime
+
+          # URL to fetch cookies
+          m3u_url = "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u"
+
+          # Fetch the m3u file
+          try:
+              response = requests.get(m3u_url, timeout=10)
+              response.raise_for_status()
+              m3u_content = response.text
+          except requests.RequestException as e:
+              print(f"Error fetching m3u file: {e}")
+              exit(1)
+
+          # Debug: Print m3u content snippet
+          print(f"m3u content (first 1000 chars):\n{m3u_content[:1000]}")
+
+          # Extract the first __hdnea__ cookie
+          cookie_pattern = r'__hdnea__=[^\s"\n;),]+'
+          cookie_match = re.search(cookie_pattern, m3u_content)
+          if not cookie_match:
+              fallback_pattern = r'__hdnea__=[^"\n]+'
+              cookie_match = re.search(fallback_pattern, m3u_content)
+              if not cookie_match:
+                  print("Error: No __hdnea__ cookie found in the m3u file")
+                  exit(1)
+          new_cookie = cookie_match.group(0).rstrip(';').strip()
+          print(f"Extracted cookie: {new_cookie}")
+
+          # Path to Ziotv.json
+          json_file = "Ziotv.json"
+
+          # Check if Ziotv.json exists
+          if not os.path.exists(json_file):
+              print(f"Error: {json_file} not found")
+              exit(1)
+
+          # Read Ziotv.json
+          try:
+              with open(json_file, 'r', encoding='utf-8') as f:
+                  data = json.load(f)
+          except json.JSONDecodeError as e:
+              print(f"Error: Invalid JSON in {json_file}: {e}")
+              exit(1)
+          except Exception as e:
+              print(f"Error reading {json_file}: {e}")
+              exit(1)
+
+          # Debug: Print JSON structure
+          print(f"Parsed JSON structure:\n{json.dumps(data, indent=2)[:1000]}")
+
+          # Update cookie field for all entries
+          updated = False
+          if isinstance(data, list):
+              for index, item in enumerate(data):
+                  if not isinstance(item, dict):
+                      print(f"Warning: Item at index {index} is not a dictionary, skipping")
+                      continue
+                  item["cookie"] = new_cookie
+                  updated = True
+                  print(f"Set cookie for {item.get('name', 'unknown')} (index {index}): {new_cookie}")
+              # Add timestamp to force file change
+              data.append({"last_updated": datetime.now().isoformat()})
+              updated = True
+          elif isinstance(data, dict):
+              data["cookie"] = new_cookie
+              data["last_updated"] = datetime.now().isoformat()
+              updated = True
+              print(f"Set cookie: {new_cookie}")
+          else:
+              print("Error: Ziotv.json is neither a list nor a dictionary")
+              exit(1)
+
+          # Write updated JSON back
+          if updated:
+              try:
+                  with open(json_file, 'w', encoding='utf-8') as f:
+                      json.dump(data, f, indent=2)
+                      f.write('\n')
+                  print(f"Successfully updated {json_file}")
+              except Exception as e:
+                  print(f"Error writing to {json_file}: {e}")
+                  exit(1)
+          else:
+              print("Error: No cookie fields were updated in Ziotv.json")
+              exit(1)
+          EOF
+
+      # Debug: Check updated Ziotv.json content
+      - name: Check updated Ziotv.json
+        run: |
+          echo "Updated Ziotv.json content:"
+          if [ -f Ziotv.json ]; then
+            cat Ziotv.json
+          else
+            echo "Error: Ziotv.json not found after update"
+            exit 1
+          fi
+
+      # Commit and push changes
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Ziotv.json
+          git commit -m "Update cookies in Ziotv.json (Run: $(date -u '+%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
