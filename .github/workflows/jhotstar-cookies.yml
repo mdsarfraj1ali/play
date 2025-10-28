@@ -1,0 +1,58 @@
+name: Update JioHotstar Cookie from JSON in jcinema.m3u
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Har 6 ghante me
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download jcinema.m3u
+        run: curl -fsS https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jcinema.m3u -o jcinema.m3u
+
+      - name: Extract hdntl Cookie from JSON Line
+        id: extract
+        run: |
+          # Find line with {"cookie":"hdntl=..."}
+          COOKIE_LINE=$(grep -o '{"cookie":"hdntl=[^"]*"' jcinema.m3u | head -1)
+          
+          if [ -z "$COOKIE_LINE" ]; then
+            echo "No JSON cookie line found!"
+            exit 1
+          fi
+          
+          # Extract value inside quotes
+          COOKIE=$(echo "$COOKIE_LINE" | sed -E 's/.*"hdntl=([^"]+)".*/hdntl=\1/')
+          
+          # Validate format: exp=number, acl=%2f*, hmac=64 hex
+          if ! echo "$COOKIE" | grep -qE '^hdntl=exp=[0-9]+~acl=%2f\*~.*~hmac=[a-f0-9]{64}$'; then
+            echo "Invalid cookie format: $COOKIE"
+            exit 1
+          fi
+          
+          echo "value=$COOKIE" >> $GITHUB_OUTPUT
+          echo "Valid cookie extracted: $COOKIE"
+
+      - name: Update Cookie in JioHotstar.json (All Channels)
+        run: |
+          jq --arg c "${{ steps.extract.outputs.value }}" '.[] |= (.cookie = $c)' JioHotstar.json > tmp.json && mv tmp.json JioHotstar.json
+
+      - name: Commit & Push (Only if Changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
+          git add JioHotstar.json
+          if git diff --staged --quiet; then
+            echo "No change in cookie"
+          else
+            git commit -m "Update hdntl cookie from jcinema.m3u [skip ci]"
+            git push
+          fi
