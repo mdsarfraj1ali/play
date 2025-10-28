@@ -1,0 +1,154 @@
+[
+  {
+    "logo": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/7049/597049-h",
+    "name": "Star Plus",
+    "link": "https://livetv.hotstar.com/mp2/gec-india-1540005587/d70f7444749a46988107a08c1bea5c54/index.mpd",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com",
+    "drmScheme": "clearkey",
+    "drmLicense": "4538242a7c1a4cb89bcf180cc17e0000:4f18240ef66329a3db73a733e6a7aaf2"
+  },
+  {
+    "logo": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/7236/597236-h",
+    "name": "Star Bharat",
+    "link": "https://livetv.hotstar.com/mp1/gec-india-1540005590/ed7dde701895465191f34b11a64f7a0c/index.mpd",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com",
+    "drmScheme": "clearkey",
+    "drmLicense": "3dcee103bfa6461a85cb7991aa920000:58681f979afd5e5514a6552fad0f6c8a"
+  },
+  {
+    "logo": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/7220/597220-h",
+    "name": "Star Utsav",
+    "link": "https://livetv.hotstar.com/mp1/gec-india-1540005605/7ec53f14f0594e309eb692104742e4a8/index.mpd",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com",
+    "drmScheme": "clearkey",
+    "drmLicense": "10935324ce6b4e28a11f94554d970000:df019cdc881bd48c79d33bfc63ba22c6"
+  },
+  {
+    "logo": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/7211/597211-h",
+    "name": "Star Gold",
+    "link": "https://livetv.hotstar.com/mp2/gec-india-1540005563/26f8508d98bd474f9abe90777c07b3d5/index.mpd",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com",
+    "drmScheme": "clearkey",
+    "drmLicense": "e1e2d64eaf514da88dbf341518910000:031bbcc4995ba31ea38fa18d66f9adf1"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/colors-hindi-16x9-1624355211306-1673189199975-1697532330553.jpg",
+    "name": "Colors HD",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsHD/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg",
+    "name": "Colors Rishtey",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsRishtey/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
+    "name": "Colors Cineplex HD",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",
+    "name": "Cineplex SuperHits",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/cineplex-1713963820848.jpeg",
+    "name": "Cineplex Bollywood",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/16x9-1719554242246.jpg",
+    "name": "Nick",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_NickSD/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",
+    "name": "Nick HD Plus",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_NickHD/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",
+    "name": "Nick JR",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_NickJr/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",
+    "name": "Sonic",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://v3img.voot.com/v3Storage/assets/mtv-16x9-1714316345624.jpg",
+    "name": "MTV HD",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_MTVHD/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://i.ibb.co/XxrqJ0Zw/Star-Sports-2-Hindi.jpg",
+    "name": "Star Sports 2 Hindi",
+    "link": "https://jcevents-jiohotstar.pages.dev/bpk-tv/Syn_StarSports_2_Hin_HD/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  },
+  {
+    "logo": "https://i.ibb.co/XxrqJ0Zw/Star-Sports-2-Hindi.jpg",
+    "name": "Star Sports 2 Hindi",
+    "link": "https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/hls.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "cookie": "hdntl=exp=1761634811~acl=%2f*~id=fc2d04391430a06a9deb306ca142ee55~data=hdntl~hmac=2d8262012c61769c71b63304026a3a9428a58342e4dbbbbbf1d90bab4e10efb0",
+    "referer": "https://www.hotstar.com/",
+    "origin": "https://www.hotstar.com"
+  }
+]
