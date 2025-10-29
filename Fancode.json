@@ -1,32 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/137354_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Liverpool Vs Crystal Palace",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137354_english_hls_27e725d4d874970_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/137353_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Arsenal Vs Brighton And Hove Albion",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137353_english_hls_55f59c000c18141_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/137357_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Newcastle United Vs Tottenham Hotspur",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137357_english_hls_226a8fc2d631364_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/137356_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Wolverhampton Wanderers F.c. Vs Chelsea",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137356_english_hls_d60af4c8bb37105_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/137355_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Swansea City A.f.c. Vs Manchester City",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137355_english_hls_725e35b3237149_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136940_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "1. Fc K\u00f6ln Vs Fc Bayern M\u00fcnchen",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136940_english_hls_41170aba7632235_1ta-di_h264/index.m3u8"
   }
 ]
