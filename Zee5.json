@@ -4,7 +4,7 @@
     "name": "Zee TV HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -13,7 +13,7 @@
     "name": "&TV HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -22,7 +22,7 @@
     "name": "Zee TV",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -31,7 +31,7 @@
     "name": "Zee Anmol",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -40,7 +40,7 @@
     "name": "Big Magic",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -49,7 +49,7 @@
     "name": "Zing",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -58,7 +58,7 @@
     "name": "&Pictures HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -67,7 +67,7 @@
     "name": "Zee Cinema HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -76,7 +76,7 @@
     "name": "Zee Anmol Cinema",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -85,7 +85,7 @@
     "name": "Zee Anmol Cinema 2",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -94,7 +94,7 @@
     "name": "Zee Bollywood",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -103,7 +103,7 @@
     "name": "&Pictures",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -112,7 +112,7 @@
     "name": "Zee Cinema",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -121,7 +121,7 @@
     "name": "Zee Action",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -130,7 +130,7 @@
     "name": "Zee Classic",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -139,7 +139,7 @@
     "name": "&xplorHD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -148,7 +148,7 @@
     "name": "Zee Biskope",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -157,7 +157,7 @@
     "name": "&flix HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -166,7 +166,7 @@
     "name": "Zee Tamil HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -175,7 +175,7 @@
     "name": "Zee Telugu HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -184,7 +184,7 @@
     "name": "Zee Kannada HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -193,7 +193,7 @@
     "name": "Zee Keralam HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -202,7 +202,7 @@
     "name": "Zee Bangla HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -211,7 +211,7 @@
     "name": "Zee Cinemalu HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -220,7 +220,7 @@
     "name": "Zee Talkies HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -229,7 +229,7 @@
     "name": "Zee Marathi HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -238,7 +238,7 @@
     "name": "Zee Yuva",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -247,7 +247,7 @@
     "name": "Zee Café HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -256,7 +256,7 @@
     "name": "Zee Bangla Cinema",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -265,7 +265,7 @@
     "name": "Zee Punjabi",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -274,7 +274,7 @@
     "name": "Zee Salaam",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -283,7 +283,7 @@
     "name": "Zee Sarthak",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -292,7 +292,7 @@
     "name": "Zee Thirai",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -301,7 +301,7 @@
     "name": "Zee Zest HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -310,7 +310,7 @@
     "name": "Zee Chitramandir",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -319,7 +319,7 @@
     "name": "Zee Kannada",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -328,7 +328,7 @@
     "name": "Zee Bangla",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -337,7 +337,7 @@
     "name": "Zee Telugu",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -346,7 +346,7 @@
     "name": "Zee Marathi",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -355,7 +355,7 @@
     "name": "Zee Tamil",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -364,7 +364,7 @@
     "name": "Zee Cinemalu",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -373,7 +373,7 @@
     "name": "&Prive HD",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -382,7 +382,7 @@
     "name": "Zee Talkies",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -391,7 +391,7 @@
     "name": "Aaj Tak",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -400,7 +400,7 @@
     "name": "Zee News",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -409,7 +409,7 @@
     "name": "TV9 Bharatvarsh",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2111481/TV9_Bharatvarsh/index.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -418,7 +418,7 @@
     "name": "Zee Bharat",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -427,7 +427,7 @@
     "name": "Zee Bihar Jharkhand",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -436,7 +436,7 @@
     "name": "Zee News Uttar Pradesh Uttrakhand",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -445,7 +445,7 @@
     "name": "Good News Today",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -454,7 +454,7 @@
     "name": "Zee Punjab Haryana Himachal Pradesh",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -463,7 +463,7 @@
     "name": "Zee Business",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -472,7 +472,7 @@
     "name": "Zee 24 Kalak",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -481,7 +481,7 @@
     "name": "Zee 24 Taas",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -490,7 +490,7 @@
     "name": "WION",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -499,7 +499,7 @@
     "name": "India Today",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -508,7 +508,7 @@
     "name": "Zee 24 Ghanta",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -517,7 +517,7 @@
     "name": "Zee Delhi NCR Haryana",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -526,7 +526,7 @@
     "name": "Zee Rajasthan News",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   },
@@ -535,7 +535,7 @@
     "name": "Zee Madhya Pradesh Chhattisgarh",
     "link": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    "cookie": "hdntl=exp=1761828094~acl=%2f*~data=hdntl~hmac=1008ae4c123b9305e2461829e4ab1485aef933cc1882df607773e69b3c906fa3",
+    "cookie": "hdntl=exp=1761874652~acl=%2f*~data=hdntl~hmac=7d18f456288a9cfa762986ef2103ee6126d2113cb2108df7138f01b698e39c63",
     "referer": "https://www.zee5.com/",
     "origin": "https://www.zee5.com"
   }
