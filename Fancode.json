@@ -1,12 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/137253_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Nepal Vs United Arab Emirates",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/137868_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Ladakh Heros Vs Patnitop Warriors",
+    "name": "Patnitop Warriors Vs Ladakh Heros",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137868_english_hls_803171d45671071_1ta-di_h264/index.m3u8"
   }
 ]
