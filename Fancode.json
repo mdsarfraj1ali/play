@@ -1,7 +1,12 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/137373_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Zimbabwe Vs Afghanistan",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137373_english_hls_83c04e80a093365_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/137870_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Kishtwar Giants Vs The Pulwama Titans",
+    "name": "The Pulwama Titans Vs Kishtwar Giants",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137870_english_hls_697e2aadfc56967_1ta-di_h264/index.m3u8"
   }
 ]
