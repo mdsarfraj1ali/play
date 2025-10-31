@@ -1,17 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134021_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Victoria Vs Tasmania",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c822795_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "South Australia Vs Western Australia",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc145107_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/137869_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Gulmarg Royal Vs Jammu Lions",
+    "name": "Jammu Lions Vs Gulmarg Royal",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137869_english_hls_c24e8e600a71136_1ta-di_h264/index.m3u8"
   }
 ]
