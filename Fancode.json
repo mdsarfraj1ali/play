@@ -1,5 +1,10 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/137255_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Usa Vs United Arab Emirates",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137255_english_hls_915a3049d770605_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/133940_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Queensland Vs New South Wales",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133940_english_hls_876bf234804130_1ta-di_h264/index.m3u8"
