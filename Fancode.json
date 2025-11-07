@@ -8,5 +8,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Session 1   Qualifying Time Trials",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137968_english_hls_6535ee454728585_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/118482_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Sprint Qualifying",
+    "link": "https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8"
   }
 ]
