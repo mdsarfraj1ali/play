@@ -5,9 +5,9 @@
     "link": "https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/137892_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Najmah Sc Vs Al Hilal Sfc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137892_english_hls_a7d45bf7b043742_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/136963_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Watford F.c. Vs Bristol City F.c.",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136963_english_hls_9a9a26591470080_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/130942_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -20,8 +20,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137824_english_hls_f1174740a883342_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Session 1   Qualifying Time Trials",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137968_english_hls_6535ee454728585_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/137969_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Session 2   Qualifying Races",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137969_english_hls_411e3ce22d40635_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/137974_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137974_english_hls_cbf7f6447480047_1ta-di_h264/index.m3u8"
   }
 ]
