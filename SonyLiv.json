@@ -2,11 +2,16 @@
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011021/1762614626137248_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
     "name": "Cash/Glasspool vs Bolelli/Vavassori - Group Stage - 9 Nov 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756140~acl=/*~id=69167426864351080821132889439148~hmac=e5ff7e222fb5a299637f5765153553e0814c9621bf62d017bfdf0695fdecd7bb"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010786/1762149312281745_bliga2526_MD10_Eintracht-Frankfurt-vs-Mainz_3nov__landscape_thumb.jpg",
+    "name": "Eintracht Frankfurt vs Mainz - MD 10 - 10 Nov 2025 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756140~acl=/*~id=69167426864351080821132889439148~hmac=e5ff7e222fb5a299637f5765153553e0814c9621bf62d017bfdf0695fdecd7bb"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010786/1762148938170745_bliga2526_MD10_VfB-Stuttgart-vs-FC-Augsburg_3nov__landscape_thumb.jpg",
     "name": "VfB Stuttgart vs FC Augsburg - MD 10 - 9 Nov 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756140~acl=/*~id=69167426864351080821132889439148~hmac=e5ff7e222fb5a299637f5765153553e0814c9621bf62d017bfdf0695fdecd7bb"
   }
 ]
