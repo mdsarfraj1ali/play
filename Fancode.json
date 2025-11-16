@@ -1,17 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/119297_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Race Day",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/119297_english_hls_e0153a808d44379_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138037_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "England Under 19 Vs West Indies Under 19",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138037_english_hls_55a209b1dd3460_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/137953_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Lion City Sailors Vs Ho Chi Minh City Women\u2019s Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137953_english_hls_320b315ba392987_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/137980_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 4",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137980_english_hls_a247f993ab74574_1ta-di_h264/index.m3u8"
   }
 ]
