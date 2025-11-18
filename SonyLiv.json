@@ -1,17 +1,12 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763378476540524_ACC25_INDA_vs_OMA_live_Landscape_thumb.jpg",
-    "name": "India A vs Oman - 18 Nov 2025  [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763526898~acl=/*~id=81344816718448422801777080065687~hmac=914b52e481f4e507f52e1a10b8e64e079db40d56af821252c563293574daa357"
-  },
-  {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762148767671734_UEFA_INT_Friendlies_Cyprus_vs_Estonia_3nov_landscape_thumb.jpg",
     "name": "Cyprus vs Estonia - 18 Nov 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763526898~acl=/*~id=81344816718448422801777080065687~hmac=914b52e481f4e507f52e1a10b8e64e079db40d56af821252c563293574daa357"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763534198~acl=/*~id=30195085171481543561503999747094~hmac=0586a85ce29f493dbf5d0529b4a2a77e7f045c31744d592ad522fc1f6906a8b3"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762150560577734_UEFA_INT_Friendlies_Faroe_Islands_vs_Kazakhstan_3nov_landscape_thumb.jpg",
     "name": "Faroe Islands vs Kazakhstan - 18 Nov 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763526898~acl=/*~id=81344816718448422801777080065687~hmac=914b52e481f4e507f52e1a10b8e64e079db40d56af821252c563293574daa357"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763534198~acl=/*~id=30195085171481543561503999747094~hmac=0586a85ce29f493dbf5d0529b4a2a77e7f045c31744d592ad522fc1f6906a8b3"
   }
 ]
