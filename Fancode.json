@@ -1,17 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138296_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sudurpaschim Royals Vs Kathmandu Gorkhas",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138205_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Northern Warriors Vs Aspin Stallions",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138205_english_hls_d408a6174261368_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Royal Champs Vs Vista Riders",
+    "name": "Vista Riders Vs Royal Champs",
     "link": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8"
   },
   {
@@ -28,10 +18,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/138042_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "England Under 19 Vs West Indies Under 19",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/137959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Melbourne City Women Vs Ho Chi Minh City Women\u2019s Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137959_english_hls_ea8e56fc6b34286_1ta-di_h264/index.m3u8"
   }
 ]
