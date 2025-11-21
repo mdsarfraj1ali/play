@@ -1,23 +1,18 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/118487_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Practice 2",
-    "link": "https://d1ee2klw5nxf97.cloudfront.net/out/v1/77458792a51340a2ac1571bfe26f01f7/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138238_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Bangladesh Vs Ireland",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138010_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Indonesia Vs Bahrain",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138010_english_hls_7c0c47af7a28899_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138088_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Papua New Guinea Women Vs Thailand Women",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138088_english_hls_fb1abb342e94849_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/119137_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Qualifying Session",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/119137_english_hls_2d8eab606d56208_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138075_CASACARDS_PARTNER_16_9_1920_1080.png",
