@@ -1,5 +1,10 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/118487_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Practice 2",
+    "link": "https://d1ee2klw5nxf97.cloudfront.net/out/v1/77458792a51340a2ac1571bfe26f01f7/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/138238_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Bangladesh Vs Ireland",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8"
