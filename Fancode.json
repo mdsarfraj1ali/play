@@ -1,22 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/130957_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Valencia Cf Vs Levante",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130957_english_hls_632814f62c63409_1adfreeta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136966_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Preston North End F.c. Vs Blackburn Rovers F.c.",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136966_english_hls_648c635fbc45265_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138049_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Trinidad & Tobago Red Force Vs Jamaica Scorpions",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138049_english_hls_8f4e48496b44516_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Las Palmas Vs Albacete",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138066_english_hls_4526c0323122802_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/130957_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Valencia Cf Vs Levante",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130957_english_hls_632814f62c63409_1adfreeta-di_h264/index.m3u8"
   }
 ]
