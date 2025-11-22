@@ -1,18 +1,13 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/118489_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Qualifying",
-    "link": "https://d3seoyp01tmqda.cloudfront.net/out/v1/6c2d5192a8b44125819a58894b0411b0/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138238_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Bangladesh Vs Ireland",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c3566_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134026_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "New South Wales Vs Tasmania",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e78939_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138299_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Lumbini Lions Vs Karnali Yaks",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/134028_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -23,10 +18,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/134027_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Victoria Vs Queensland",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f224160_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138299_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Lumbini Lions Vs Karnali Yaks",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8"
   }
 ]
