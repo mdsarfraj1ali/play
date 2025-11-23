@@ -20,9 +20,14 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c95230_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138078_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Uganda Women Vs Papua New Guinea Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138078_english_hls_1ee260122020976_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138091_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Thailand Women Vs Namibia Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138091_english_hls_6e8c190b2762590_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138090_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "United Arab Emirates Women Vs Scotland Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138090_english_hls_990ddebe0d4_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/134026_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -38,5 +43,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/134027_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Victoria Vs Queensland",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f280477_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/137960_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "East Bengal Vs Pfc Nasaf",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137960_english_hls_a280c4cd9476521_1ta-di_h264/index.m3u8"
   }
 ]
