@@ -1,7 +1,17 @@
 [
   {
     "logo": "https://images.fancode.com/aig/match/v1/138451_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Malaysia Vs Thailand",
+    "name": "Thailand Vs Malaysia",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138451_english_hls_16f67a207438913_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/134028_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Western Australia Vs South Australia",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40634750_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/134027_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Victoria Vs Queensland",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8"
   }
 ]
