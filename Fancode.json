@@ -1,22 +1,17 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134028_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Western Australia Vs South Australia",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40623957_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138303_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Kathmandu Gorkhas Vs Lumbini Lions",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138303_english_hls_f93e6a51ae69499_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138458_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Malaysia A Vs Thailand",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138458_english_hls_9c49dd83e744004_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/136021_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Shanghai Port Vs Seoul",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136021_english_hls_a1fc38e9fc17429_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138094_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Papua New Guinea Women Vs Netherlands Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138094_english_hls_0d6225dadd90605_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136019_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Melbourne City Vs Johor Darul Ta'zim",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136019_english_hls_d6ad3aa5dc17077_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/136020_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Gangwon Vs Machida Zelvia",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136020_english_hls_245e839f8050488_1ta-di_h264/index.m3u8"
   }
 ]
