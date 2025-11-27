@@ -15,11 +15,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138306_english_hls_8ea704283962546_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/136160_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Ratchaburi Vs Nam Dinh",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136160_english_hls_a2d225255639786_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/136184_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Tampines Rovers Fc Vs Kaya",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136184_english_hls_919cfc46a688366_1ta-di_h264/index.m3u8"
@@ -28,5 +23,20 @@
     "logo": "https://images.fancode.com/aig/match/v1/136148_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Cong An Ha Noi Vs Beijing Guoan",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136148_english_hls_f33fc01c9134035_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138057_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Trinidad & Tobago Red Force Vs Leeward Islands Hurricanes",
+    "link": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169ab4b3489779_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138056_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Guyana Harpy Eagles Vs Barbados Pride",
+    "link": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138056_english_hls_4fd656a96b54874_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/137195_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137195_english_hls_c8afe5b3f352852_1ta-di_h264/index.m3u8"
   }
 ]
