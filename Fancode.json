@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138226_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Uae Bulls Vs Aspin Stallions",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138226_english_hls_de3799bfc873865_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138227_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Northern Warriors Vs Royal Champs",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138227_english_hls_5b01843e2f6348_1ta-di_h264/index.m3u8"
@@ -13,15 +8,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/138057_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Trinidad & Tobago Red Force Vs Leeward Islands Hurricanes",
     "link": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169ab4b3489779_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138056_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Guyana Harpy Eagles Vs Barbados Pride",
-    "link": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138056_english_hls_4fd656a96b54874_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/137195_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137195_english_hls_c8afe5b3f352852_1ta-di_h264/index.m3u8"
   }
 ]
