@@ -1,22 +1,17 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138228_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Ajman Titans Vs Uae Bulls",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138228_english_hls_8aa97e62e933050_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/118491_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Practice 1",
+    "link": "https://d3c6zp6hmyqt1.cloudfront.net/out/v1/c1a8c6035f1d46ccb945219362acd972/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138308_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Karnali Yaks Vs Biratnagar Kings",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138308_english_hls_f8f73adbfb87986_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138229_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Royal Champs Vs Quetta Qavalry",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138229_english_hls_02a1d89a1168511_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/137196_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137196_english_hls_0f242aec0333461_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/118491_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Practice 1",
-    "link": "https://d3c6zp6hmyqt1.cloudfront.net/out/v1/c1a8c6035f1d46ccb945219362acd972/index.m3u8"
   }
 ]
