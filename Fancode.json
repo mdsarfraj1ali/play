@@ -5,6 +5,16 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138307_english_hls_07dbba305293280_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/138083_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Netherlands Women Vs Scotland Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138083_english_hls_1f11a2227274676_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138082_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Papua New Guinea Women Vs Namibia Women",
+    "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/138082_english_138082/adfree-h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/138611_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138611_english_hls_311d8135649674_1ta-di_h264/index.m3u8"
