@@ -1,5 +1,10 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/118493_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Sprint",
+    "link": "https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/138240_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Ireland Vs Bangladesh",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-di_h264/index.m3u8"
@@ -10,9 +15,9 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/118493_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sprint",
-    "link": "https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138231_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Quetta Qavalry Vs Aspin Stallions",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138231_english_hls_e1931d577b79253_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138041_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -28,15 +33,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/137197_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137197_english_hls_b87cef92fc45166_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138310_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Janakpur Bolts Vs Sudurpaschim Royals",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138310_english_hls_e88668f25139838_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138231_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Quetta Qavalry Vs Aspin Stallions",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138231_english_hls_e1931d577b79253_1ta-di_h264/index.m3u8"
   }
 ]
