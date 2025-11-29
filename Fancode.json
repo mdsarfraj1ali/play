@@ -5,6 +5,16 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/130961_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Rcd Mallorca Vs Ca Osasuna",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/118493_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Sprint",
+    "link": "https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/138310_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Janakpur Bolts Vs Sudurpaschim Royals",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138310_english_hls_e88668f25139838_1ta-di_h264/index.m3u8"
@@ -13,5 +23,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/136971_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Leicester City F.c. Vs Sheffield United F.c.",
     "link": "https://dai.google.com/linear/hls/event/u6UIxMldQjWlwYZuxyx1DA/master.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138041_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "West Indies Under 19 Vs England Under 19",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/137197_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 3",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137197_english_hls_b87cef92fc45166_1ta-di_h264/index.m3u8"
   }
 ]
