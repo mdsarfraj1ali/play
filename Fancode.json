@@ -1,8 +1,8 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138232_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Uae Bulls Vs Ajman Titans",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138232_english_hls_e7b17301d282908_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Qualifying",
+    "link": "https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138041_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -25,23 +25,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138070_english_hls_18127e6ae235352_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Qualifying",
-    "link": "https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Trinidad & Tobago Red Force Vs Barbados Pride",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/130964_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Deportivo Alaves",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/130964_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Deportivo Alaves",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130964_hindi_hls_499d6236a346996_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/130964_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Deportivo Alaves",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130964_bengali_hls_77a40004f789944_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138232_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Uae Bulls Vs Ajman Titans",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138232_english_hls_e7b17301d282908_1ta-di_h264/index.m3u8"
   }
 ]
