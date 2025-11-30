@@ -10,8 +10,18 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138311_english_hls_61ec21c4158250_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138427_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "New Zealand Vs Malaysia",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138427_english_hls_f06029312234473_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138428_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Belgium Vs India",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138428_english_hls_a0db59900b79127_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/119076_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Feature Race",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/119076_english_hls_2f19639c3e36038_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/137198_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 4",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137198_english_hls_48cd739f0748161_1ta-di_h264/index.m3u8"
   }
 ]
