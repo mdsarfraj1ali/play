@@ -1,15 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138099_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "United Arab Emirates Women Vs Namibia Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138099_english_hls_b00a5c213332422_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138657_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Prime Ministers Xi Vs England Xi",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1667962_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138667_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Albirex Niigata Vs Kashiwa Reysol",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138667_english_hls_de2cc0efd891270_1ta-di_h264/index.m3u8"
@@ -30,8 +20,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138664_english_hls_18152d391b64392_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138613_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 4",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138613_english_hls_6203f1338999020_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138657_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Prime Ministers Xi Vs England Xi",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1667962_1ta-di_h264/index.m3u8"
   }
 ]
