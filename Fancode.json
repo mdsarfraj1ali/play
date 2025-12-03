@@ -13,5 +13,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/131017_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Athletic Club Vs Real Madrid",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131017_bengali_hls_4d9c947c1b4386_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138403_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "1. Fc Union Berlin Vs Fc Bayern M\u00fcnchen",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138403_english_hls_0cca1d0e1531933_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138618_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138618_english_hls_eee8c203dc48113_1ta-di_h264/index.m3u8"
   }
 ]
