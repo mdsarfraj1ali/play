@@ -8,5 +8,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/138672_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138672_english_hls_1368d0a86e6293_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138680_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138680_english_hls_3371ea37d299918_1ta-di_h264/index.m3u8"
   }
 ]
