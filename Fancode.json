@@ -13,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/134031_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Tasmania Vs South Australia",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134031_english_hls_0385f5e48517953_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138615_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138615_english_hls_ae195c4a308819_1ta-di_h264/index.m3u8"
   }
 ]
