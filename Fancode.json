@@ -1,22 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134029_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Western Australia Vs Victoria",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7069711_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/134030_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "New South Wales Vs Queensland",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134030_english_hls_9444508c2d29886_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/134031_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Tasmania Vs South Australia",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134031_english_hls_0385f5e48517953_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138615_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138615_english_hls_ae195c4a308819_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/121612_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Free Practice ",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/121612_english_hls_87737adfaf70639_1ta-di_h264/index.m3u8"
   }
 ]
