@@ -8,5 +8,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/138673_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138673_english_hls_92b776856179702_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/118497_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Practice 2",
+    "link": "https://dfczwdj93w3oq.cloudfront.net/out/v1/a0448f5b40094b469b3c27fb400c7a23/index.m3u8"
   }
 ]
