@@ -1,12 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134031_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Tasmania Vs South Australia",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134031_english_hls_0385f5e48517953_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/121612_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Free Practice ",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/121612_english_hls_87737adfaf70639_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/default-logo.png",
+    "name": "No Live Matches Available - Check Back Later",
+    "link": ""
   }
 ]
