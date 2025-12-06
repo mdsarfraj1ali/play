@@ -5,14 +5,24 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138627_english_hls_73a9e8a2fd15196_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/136974_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Bristol City F.c. Vs Millwall F.c.",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136974_english_hls_f4e1b6059537880_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/130978_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Deportivo Alaves Vs Real Sociedad",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130978_english_hls_09def18c9647025_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/130972_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Betis Vs Fc Barcelona",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130972_english_hls_b35c2f1d4893092_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/130972_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Betis Vs Fc Barcelona",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130972_hindi_hls_e07a25a14910533_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/130972_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Betis Vs Fc Barcelona",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130972_bengali_hls_c2c6f540b147358_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138266_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -25,13 +35,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138674_english_hls_7b47ff6fec24460_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138662_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Indian Supercross Racing League",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/118499_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Qualifying",
-    "link": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138278_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 3",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138278_english_hls_c7b168298721699_1ta-di_h264/index.m3u8"
   }
 ]
