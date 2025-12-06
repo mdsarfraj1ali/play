@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/118499_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Qualifying",
-    "link": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138627_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Dubai Capitals Vs Gulf Giants",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138627_english_hls_73a9e8a2fd15196_1ta-di_h264/index.m3u8"
@@ -33,5 +28,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/138662_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Indian Supercross Racing League",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/118499_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Qualifying",
+    "link": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
   }
 ]
