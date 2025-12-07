@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/130971_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Rcd Espanyol Vs Rayo Vallecano",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130971_english_hls_a92a66d66494781_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/130973_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Real Madrid Vs Rc Celta",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130973_english_hls_b35ef444f080590_1ta-di_h264/index.m3u8"
@@ -18,11 +13,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/130973_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Real Madrid Vs Rc Celta",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130973_bengali_hls_8c78b08cd888130_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138267_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Deportivo De La Coru\u00f1a Vs Castell\u00f3n",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138267_english_hls_5789b722fd25617_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138682_CASACARDS_PARTNER_16_9_1920_1080.png",
