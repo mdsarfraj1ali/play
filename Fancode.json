@@ -1,7 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138630_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Gulf Giants Vs Desert Vipers",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138630_english_hls_c096f3622151528_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/130975_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Ca Osasuna Vs Levante",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130975_english_hls_4c63cca29429444_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138268_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "M\u00e1laga Vs Real Zaragoza",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138268_english_hls_60d78e118216886_1ta-di_h264/index.m3u8"
   }
 ]
