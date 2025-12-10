@@ -1,12 +1,27 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740530232688_UYL2526_MD6_Real_Madrid_vs_Man_City_2dec_landscape_thumb.jpg",
-    "name": "Real Madrid vs Man City - MD 6 - 10 Dec 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+    "name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
   },
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740112914688_UYL2526_MD6_Brugge_vs_Arsenal_2dec_landscape_thumb.jpg",
-    "name": "Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+    "name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+    "name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TAM]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+    "name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TEL]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740530232688_UYL2526_MD6_Real_Madrid_vs_Man_City_2dec_landscape_thumb.jpg",
+    "name": "Real Madrid vs Man City - MD 6 - 10 Dec 2025 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
   }
 ]
