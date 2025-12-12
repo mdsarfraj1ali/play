@@ -1,7 +1,12 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg",
-    "name": "2nd Test - Day 3 - 12 Dec 2025 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765550578~acl=/*~id=50923984068240824329442313948579~hmac=fe604e3c0b22faa003362472b17500cb54ee80e48c99f6e88a5436737d05a1c2"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012245/1765444000776333_AC25_U19_IND_vs_UAE_11dec_Landscape_thumb.jpg",
+    "name": "India U19 vs UAE U19 - 12 Dec 2025 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765556658~acl=/*~id=29924702178564382676598194264822~hmac=5ab9c1acafada078d8f8a655b758a2135adfdb466c00064ff7c45da6a947b0a4"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012246/1765445543924356_AC25_U19_PAK_vs_MAS_11dec_LIVE_Landscape_thumb.jpg",
+    "name": "Pakistan U19 vs Malaysia U19 - 12 Dec 2025 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765556658~acl=/*~id=29924702178564382676598194264822~hmac=5ab9c1acafada078d8f8a655b758a2135adfdb466c00064ff7c45da6a947b0a4"
   }
 ]
