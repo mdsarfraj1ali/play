@@ -5,23 +5,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/138620_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Zaragoza Vs C\u00e1diz",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138620_english_hls_de9c8afe1380585_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/138729_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/130989_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Ca Osasuna",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/130989_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Ca Osasuna",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130989_hindi_hls_36e9e708da49967_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/130989_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Ca Osasuna",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130989_bengali_hls_a04164d23d2805_1ta-di_h264/index.m3u8"
   }
 ]
