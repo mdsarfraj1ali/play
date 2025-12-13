@@ -10,11 +10,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138717_english_hls_23c9efdc5a60218_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/130983_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Rcd Mallorca Vs Elche Cf",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130983_english_hls_b392c4731f92633_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/130989_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Fc Barcelona Vs Ca Osasuna",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8"
@@ -35,8 +30,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138619_english_hls_92e07ba7eb6998_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/136982_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Wrexham A.f.c. Vs Watford F.c.",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136982_english_hls_cf5d267e0166435_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/130983_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Rcd Mallorca Vs Elche Cf",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130983_english_hls_b392c4731f92633_1ta-di_h264/index.m3u8"
   }
 ]
