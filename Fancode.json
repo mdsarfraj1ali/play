@@ -5,14 +5,9 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138900_english_hls_23b747430214291_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138640_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Mi Emirates Vs Dubai Capitals",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138640_english_hls_46562a8c4855048_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138899_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Cultural Leonesa Vs Levante",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138899_english_hls_201af2524850827_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/137983_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Manchester City Vs Brentford",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137983_english_hls_60626a727d89666_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138903_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -28,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/138901_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Albacete Vs Rc Celta",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138901_english_hls_bcb508a9e692026_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138899_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Cultural Leonesa Vs Levante",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138899_english_hls_201af2524850827_1ta-di_h264/index.m3u8"
   }
 ]
