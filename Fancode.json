@@ -5,8 +5,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138641_english_hls_9c4c9d0e5447469_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138726_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Qatar Women Vs Oman Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138726_english_hls_9eccc6392b48265_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138907_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Burgos Vs Getafe Cf",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138907_english_hls_e022dbbfb752615_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138906_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Ourense Cf Vs Athletic Club",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138906_english_hls_bf491899e472588_1ta-di_h264/index.m3u8"
   }
 ]
