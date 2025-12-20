@@ -10,13 +10,18 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136984_english_hls_d616d17aa982293_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138805_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Perth Glory Vs Adelaide United",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138805_english_hls_5ef339440272456_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/130994_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Oviedo Vs Rc Celta",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130994_english_hls_16130fdd0085020_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/138697_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Afrasia Bank Mauritius Open",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138697_english_hls_661420901791345_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138831_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Aos Eagles Vs Aussie Mavericks Kites",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138831_english_hls_f03fdfd6bf76778_1ta-di_h264/index.m3u8"
   }
 ]
