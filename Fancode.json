@@ -1,17 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138644_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sharjah Warriorz Vs Desert Vipers",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138644_english_hls_8d202f52e599076_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/130991_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Ca Osasuna Vs Deportivo Alaves",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/130999_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Levante Vs Real Sociedad",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130999_english_hls_c617ca438630_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138961_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8"
   }
 ]
