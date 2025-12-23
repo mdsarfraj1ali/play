@@ -5,13 +5,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138648_english_hls_75db31f1bc45458_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/138342_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Senegal Vs Botswana",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138342_english_hls_418284f2bd28827_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/136126_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Hussein Vs Ahal",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136126_english_hls_076fbffeee37419_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138343_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Dr Congo Vs Benin",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138343_english_hls_849969338345435_1ta-di_h264/index.m3u8"
   }
 ]
