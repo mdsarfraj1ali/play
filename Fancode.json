@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138649_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sharjah Warriorz Vs Dubai Capitals",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138649_english_hls_4688461df473589_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/139144_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Ias Invincibles Vs Majees Titans",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139144_english_hls_8f96c9aa3735535_1ta-di_h264/index.m3u8"
@@ -18,30 +13,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/136138_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Nassr Fc Vs Al Zawraa Sc",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136138_english_hls_30dc12587a12429_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136137_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Goa Vs Fk Istiklol",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136137_english_hls_b06a364c1f44260_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136114_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Ahli (qat) Vs Andijan",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136114_english_hls_989506e82244186_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136113_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Arkadag Vs Khaldiya",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136113_english_hls_a08b51f5b713716_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136102_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Muharraq Vs Esteghlal Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136102_english_hls_d3445af9f07067_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136101_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Wasl Vs Al Wehdat",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136101_english_hls_ae20b1d1b144233_1ta-di_h264/index.m3u8"
   }
 ]
