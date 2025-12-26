@@ -1,7 +1,17 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/138916_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Sylhet Titans Vs Rajshahi Warriors",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138916_english_hls_03f63abe0162196_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139147_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Muscat Thunders Vs Ias Invincibles",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139147_english_hls_1d92077cef89000_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138807_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Newcastle Jets Vs Macarthur",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138807_english_hls_2145cf9bbe11359_1ta-di_h264/index.m3u8"
   }
 ]
