@@ -10,6 +10,11 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138651_english_hls_658b26e2bb58134_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/139152_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Muscat Thunders Vs Majees Titans",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139152_english_hls_2c055dd7dc45809_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/138441_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Nassr Fc Vs Al Okhdood Club",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138441_english_hls_82e46abeca56659_1ta-di_h264/index.m3u8"
@@ -18,10 +23,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/138354_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Senegal Vs Dr Congo",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138354_english_hls_5e485278ae18695_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139152_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Muscat Thunders Vs Majees Titans",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139152_english_hls_2c055dd7dc45809_1ta-di_h264/index.m3u8"
   }
 ]
