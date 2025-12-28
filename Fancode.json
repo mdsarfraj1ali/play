@@ -1,7 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138356_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Algeria Vs Burkina Faso",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138356_english_hls_e4d1cef68e84641_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138365_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Ivory Coast Vs Cameroon",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138365_english_hls_6a81e90d8c90298_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139163_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "New York Vs Atlanta",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139163_english_hls_96cb51060916107_1ta-di_h264/index.m3u8"
   }
 ]
