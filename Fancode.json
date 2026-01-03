@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/131009_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Elche Cf Vs Villarreal Cf",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131009_english_hls_e5a8bbfad987141_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138380_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Mali Vs Tunisia",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138380_english_hls_f82d05426848033_1ta-di_h264/index.m3u8"
@@ -23,10 +18,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/131002_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Rcd Espanyol Vs Fc Barcelona",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131002_bengali_hls_ba67f0621795600_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138914_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Real Valladolid Vs Racing Club",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138914_english_hls_3b2550c32c26353_1ta-di_h264/index.m3u8"
   }
 ]
