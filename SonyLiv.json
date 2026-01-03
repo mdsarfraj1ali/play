@@ -1,17 +1,12 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766815943251385_SuperSmash2526_mens_Central-Stags-vs-Canterbury-Kings_27dec_landscape_thumb.jpg",
-    "name": "Central Stags vs Canterbury Kings - 3 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767464040~acl=/*~id=49578800838267843690437584854766~hmac=19a1bd96a714690af45fb2bf8394c93848949b575671c1d755eb9d4fcbfe999f"
-  },
-  {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012862/176733628664789_UC26_Belgium_vs_China_2jan_landscape_thumb.jpg",
     "name": "Belgium vs China - 3 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767464040~acl=/*~id=49578800838267843690437584854766~hmac=19a1bd96a714690af45fb2bf8394c93848949b575671c1d755eb9d4fcbfe999f"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767467083~acl=/*~id=77695251895840108785900469905617~hmac=17511646e6a0ba2a59b91ca2a17345da0a5ee21a7c6c70842a29e48ae79e379f"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012864/1767337389784631_UC26_France_vs_Switzerland_2jan_landscape_thumb.jpg",
     "name": "France vs Switzerland - 3 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767464040~acl=/*~id=49578800838267843690437584854766~hmac=19a1bd96a714690af45fb2bf8394c93848949b575671c1d755eb9d4fcbfe999f"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767467083~acl=/*~id=77695251895840108785900469905617~hmac=17511646e6a0ba2a59b91ca2a17345da0a5ee21a7c6c70842a29e48ae79e379f"
   }
 ]
