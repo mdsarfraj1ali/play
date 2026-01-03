@@ -15,6 +15,16 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131009_english_hls_e5a8bbfad987141_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/139199_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Al Ittihad Vs Al Taawoun",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139199_english_hls_a0241c044c8970_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138914_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Valladolid Vs Racing Club",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138914_english_hls_3b2550c32c26353_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/131000_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Ca Osasuna Vs Athletic Club",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8"
