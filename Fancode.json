@@ -1,22 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138922_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sylhet Titans Vs Chattogram Royals",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138818_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Adelaide United Vs Central Coast Mariners",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138818_english_hls_e5eade658c26634_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139185_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Show Court 1   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139185_english_hls_3ad8fbc07a69956_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139184_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Pat Rafter Arena   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139184_english_hls_fbd0e5d5dc38428_1ta-di_h264/index.m3u8"
   }
 ]
