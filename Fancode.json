@@ -5,21 +5,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138656_english_hls_ce83ff130b39556_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Real Madrid Vs Real Betis",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131003_english_hls_ae70ea1be669377_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Real Madrid Vs Real Betis",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131003_hindi_hls_7be97aa7a721004_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Real Madrid Vs Real Betis",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131003_bengali_hls_2e00c7888825485_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138384_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Morocco Vs Tanzania",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138384_english_hls_2cc98e8fd362998_1ta-di_h264/index.m3u8"
@@ -35,8 +20,23 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131005_english_hls_a334fda8f553380_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/136997_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Norwich City F.c. Vs Stoke City F.c.",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136997_english_hls_ce3e8a8a5872248_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139200_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Damac Vs Al Hilal Sfc",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139200_english_hls_2bb16bf43e51533_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Madrid Vs Real Betis",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131003_english_hls_ae70ea1be669377_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Madrid Vs Real Betis",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131003_hindi_hls_7be97aa7a721004_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Madrid Vs Real Betis",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131003_bengali_hls_2e00c7888825485_1ta-di_h264/index.m3u8"
   }
 ]
