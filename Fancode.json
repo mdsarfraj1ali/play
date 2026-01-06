@@ -5,11 +5,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138773_english_hls_323b5b2c2527016_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/133963_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Victoria Women Vs Act Meteors",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/133965_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Queensland Fire Vs Tasmania Women",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133965_english_hls_6f58f9021288256_1ta-di_h264/index.m3u8"
@@ -18,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139189_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Show Court 1   Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139189_english_hls_113052468285825_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139188_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Pat Rafter Arena   Day 3",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139188_english_hls_6b8f42fb4d72441_1ta-di_h264/index.m3u8"
   }
 ]
