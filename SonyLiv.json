@@ -2,6 +2,11 @@
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012941/1767503753535728_UnitedCup26_Poland_vs_Netherlands_4jan_landscape_thumb.jpg",
     "name": "Poland vs Netherlands - 7 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767786099~acl=/*~id=60391973765477294176430817938468~hmac=b8dfe3a3c325987ae9eccefb1e07652d32fa3ca4ba34c66a923af31a01f9f9a7"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766836424934385_SuperSmash2526_womens_Wellington-Blaze-vs-Central-Hinds_27dec_landscape_thumb.jpg",
+    "name": "Wellington Blaze vs Central Hinds- 7 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767786099~acl=/*~id=60391973765477294176430817938468~hmac=b8dfe3a3c325987ae9eccefb1e07652d32fa3ca4ba34c66a923af31a01f9f9a7"
   }
 ]
