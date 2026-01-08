@@ -1,8 +1,8 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138743_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Northern Districts Vs Canterbury",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138743_english_hls_42aaacddfd23629_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/138775_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Northern Brave Women Vs Canterbury Magicians",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138775_english_hls_c78ed37c3f20696_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/133964_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -13,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139193_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Show Court 1   Day 5",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139193_english_hls_09e280c73c54400_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139192_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Pat Rafter Arena   Day 5",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139192_english_hls_e98641726f75876_1ta-di_h264/index.m3u8"
   }
 ]
