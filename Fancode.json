@@ -5,11 +5,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139573_english_hls_562482020234301_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138387_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Mali Vs Senegal",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/139203_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Kholood Club Vs Al Ittihad",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139203_english_hls_3a37c84ef261787_1ta-di_h264/index.m3u8"
@@ -18,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139260_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Jordan U23 Vs Saudi Arabia U23",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138387_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Mali Vs Senegal",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8"
   }
 ]
