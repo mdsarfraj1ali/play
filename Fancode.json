@@ -5,6 +5,11 @@
     "link": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/138819_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Brisbane Roar Vs Auckland",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138819_english_hls_0e8076fa1729415_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139195_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Show Court 1   Day 6",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139195_english_hls_7bfdfb96f343630_1ta-di_h264/index.m3u8"
@@ -18,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139208_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court   Day 5",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139208_english_hls_ce83ebd80a67417_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139287_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Centre Court   Day 5",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139287_english_hls_8139d864e751453_1ta-di_h264/index.m3u8"
   }
 ]
