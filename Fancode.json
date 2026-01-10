@@ -18,5 +18,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139368_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Alcaraz Vs Sinner",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139368_english_hls_de6880878b70277_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139209_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Center Court   Day 6",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139209_english_hls_718840a7e222978_1ta-di_h264/index.m3u8"
   }
 ]
