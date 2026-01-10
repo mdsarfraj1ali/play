@@ -23,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139209_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court   Day 6",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139209_english_hls_718840a7e222978_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/138821_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Macarthur Vs Sydney Fc",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138821_english_hls_2072bc5cba47760_1ta-di_h264/index.m3u8"
   }
 ]
