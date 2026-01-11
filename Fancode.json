@@ -30,13 +30,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139265_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "China Pr U23 Vs Australia U23",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139265_english_hls_b35ba6e44925291_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/139250_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Legan\u00e9s Vs Real Valladolid",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139250_english_hls_d566f65c8e38359_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139266_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Thailand U23 Vs Iraq U23",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139266_english_hls_73633f62bb88096_1ta-di_h264/index.m3u8"
   }
 ]
