@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138939_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Noakhali Express Vs Dhaka Capitals",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138939_english_hls_6f7a40840186485_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/139328_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Liverpool Women Vs London City Lionesses",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di_h264/index.m3u8"
@@ -18,10 +13,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/139266_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Thailand U23 Vs Iraq U23",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139266_english_hls_73633f62bb88096_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131016_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Rayo Vallecano Vs Rcd Mallorca",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8"
   }
 ]
