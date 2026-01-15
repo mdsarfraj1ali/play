@@ -1,17 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139539_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Atp 250   Asb Classic",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/138392_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Nigeria Vs Morocco",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/138782_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Wellington Blaze Vs Otago Sparks",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138782_english_hls_5963c447d097215_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139539_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Atp 250   Asb Classic",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8"
   }
 ]
