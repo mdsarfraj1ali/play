@@ -1,22 +1,17 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139749_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Windward Islands Women Vs Trinidad And Tobago Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139749_english_hls_0c97ae075493975_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139776_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Group   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139776_english_hls_75ea536fd47683_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139540_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Atp 250   Asb Classic",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139540_english_hls_8ee11e5cff66218_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/139676_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Racing Club Vs Fc Barcelona",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139676_english_hls_9487df73e183602_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139675_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Burgos Vs Valencia Cf",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139675_english_hls_a18e87fdd840858_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139776_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Group   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139776_english_hls_75ea536fd47683_1ta-di_h264/index.m3u8"
   }
 ]
