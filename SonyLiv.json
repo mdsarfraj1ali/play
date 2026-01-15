@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013387/1768403052642345_PWL_26_Punjab-Royals-vs-UP-Dominators_14jan_landscape_thumb.jpg",
+    "name": "Punjab Royals vs UP Dominators - 15 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768530145~acl=/*~id=08889667694674669153532489539827~hmac=7a6e2f2640cb2eda94029a274402c6587e24a44af2813d739dc7c62f33648bba"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013387/1768403052642345_PWL_26_Punjab-Royals-vs-UP-Dominators_14jan_landscape_thumb.jpg",
+    "name": "Punjab Royals vs UP Dominators - 15 Jan 2026 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768530145~acl=/*~id=08889667694674669153532489539827~hmac=7a6e2f2640cb2eda94029a274402c6587e24a44af2813d739dc7c62f33648bba"
+  }
+]
