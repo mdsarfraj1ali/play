@@ -1,7 +1,12 @@
 [
   {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013386/1768398131523642_AO26_Sinner_vs_Auger_Aliassime_op_landscape_thumb.jpg",
+    "name": "Jannik Sinner vs Felix Auger-Aliassime - 16 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768587176~acl=/*~id=40629522819348701728122035167736~hmac=f721a35f1652dff404561174fa7695c68492cc9a5bf2b81bf49c7baac06abc3e"
+  },
+  {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767443521776690_SuperSmash2526_mens_Central-Stags-vs-Auckland-Aces_1jan_landscape_thumb_.jpg",
     "name": "Central Stags vs Auckland Aces - 16 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768583534~acl=/*~id=43866135406830907037917296736539~hmac=c0328f83ca762104b5769ee97094b2696b2c67cbce103f881fde17cb04fb1a3a"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768587176~acl=/*~id=40629522819348701728122035167736~hmac=f721a35f1652dff404561174fa7695c68492cc9a5bf2b81bf49c7baac06abc3e"
   }
 ]
