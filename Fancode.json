@@ -8,5 +8,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139424_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Melbourne City Vs Auckland",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139424_english_hls_cf389aeefd60676_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139385_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Perth Glory Vs Brisbane Roar",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139385_english_hls_0ea117155f37264_1ta-di_h264/index.m3u8"
   }
 ]
