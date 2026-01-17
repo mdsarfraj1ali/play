@@ -1,12 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139778_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Group   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139778_english_hls_35c057050432718_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139773_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139773_english_hls_7eeec4ad6178144_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139569_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Centre Court   Day 6",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139569_english_hls_a5ec19a76162560_1ta-di_h264/index.m3u8"
   }
 ]
