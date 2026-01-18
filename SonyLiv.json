@@ -2,16 +2,21 @@
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847390986589_PWL_26_Tiigers-Of-Mumbai-Dangal-vs-Maharashtra-Kesari_15jan_landscape_thumb.jpg",
     "name": "Tigers of Mumbai Dangals vs Maharashtra Kesari - 18 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768793117~acl=/*~id=56089208098592179671358008817251~hmac=20ad50055de8eff09526000b56b4ec7954b51695f7a78f1f6ff5bb33878f8846"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768795548~acl=/*~id=82239120400232005483241455072023~hmac=c38064e3ebb0536d959ff92ba43d733b325d963128c01766d87bbce6922329dc"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847390986589_PWL_26_Tiigers-Of-Mumbai-Dangal-vs-Maharashtra-Kesari_15jan_landscape_thumb.jpg",
     "name": "Tigers of Mumbai Dangals vs Maharashtra Kesari - 18 Jan 2026 [HIN]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768793117~acl=/*~id=56089208098592179671358008817251~hmac=20ad50055de8eff09526000b56b4ec7954b51695f7a78f1f6ff5bb33878f8846"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768795548~acl=/*~id=82239120400232005483241455072023~hmac=c38064e3ebb0536d959ff92ba43d733b325d963128c01766d87bbce6922329dc"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496908613550_bliga26_MD18_Stuttgart_vs_Union_Berlin_15jan_landscape_thumb.jpg",
     "name": "VfB Stuttgart vs Union Berlin - MD 18 - 18 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768793117~acl=/*~id=56089208098592179671358008817251~hmac=20ad50055de8eff09526000b56b4ec7954b51695f7a78f1f6ff5bb33878f8846"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768795548~acl=/*~id=82239120400232005483241455072023~hmac=c38064e3ebb0536d959ff92ba43d733b325d963128c01766d87bbce6922329dc"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768497130413550_bliga26_MD18_Augsburg_vs_SC_Freiburg_15jan_landscape_thumb.jpg",
+    "name": "FC Augsburg vs SC Freiburg - MD 18 - 18 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768795548~acl=/*~id=82239120400232005483241455072023~hmac=c38064e3ebb0536d959ff92ba43d733b325d963128c01766d87bbce6922329dc"
   }
 ]
