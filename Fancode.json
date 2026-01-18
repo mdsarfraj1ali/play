@@ -10,8 +10,18 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139753_english_hls_05a811bd2569781_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/139922_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Mexico Legends Vs International Legends",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139922_english_hls_a70226954d38569_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139780_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Group   Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139780_english_hls_ec50c15d8d92249_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139774_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed   Day 3",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139774_english_hls_681d94c15996406_1ta-di_h264/index.m3u8"
   }
 ]
