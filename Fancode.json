@@ -1,22 +1,12 @@
 [
   {
     "logo": "https://images.fancode.com/aig/match/v1/138946_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sylhet Titans Vs Rangpur Riders",
+    "name": "Rangpur Riders Vs Sylhet Titans",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Dyandeep Seva Mandal Vs Swami Vivekanand",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139223_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Thailand Women Vs Zimbabwe Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139223_english_hls_fb34769ddd64567_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139222_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Bangladesh Women Vs Papua New Guinea Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139222_english_hls_e5da087ff762368_1ta-di_h264/index.m3u8"
   }
 ]
