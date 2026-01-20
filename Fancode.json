@@ -8,5 +8,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Dyandeep Seva Mandal Vs Swami Vivekanand",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139225_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Namibia Women Vs Usa Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139225_english_hls_5cd22d67da1388_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139224_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Netherlands Women Vs Scotland Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139224_english_hls_f559df4bf633745_1ta-di_h264/index.m3u8"
   }
 ]
