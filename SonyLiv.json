@@ -1,17 +1,22 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
-    "name": "Punjab Royals vs Tiigers Of Mumbai Dangal - 20 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768971120~acl=/*~id=92794017204095318533817727390619~hmac=8ab4149dd08f224749cb04157c2f51bf100a116a1eda27e2fc1e6a3bbf437e77"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+    "name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
   },
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
-    "name": "Punjab Royals vs Tiigers Of Mumbai Dangal - 20 Jan 2026 [HIN]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768971120~acl=/*~id=92794017204095318533817727390619~hmac=8ab4149dd08f224749cb04157c2f51bf100a116a1eda27e2fc1e6a3bbf437e77"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+    "name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
   },
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374097033129_UCL_26_MD7_Kairat-Almaty-vs-Club-Brugge_14jan_landscape_thumb.jpg",
-    "name": "Kairat Almaty vs Club Brugge - MD 7 - 20 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768971120~acl=/*~id=92794017204095318533817727390619~hmac=8ab4149dd08f224749cb04157c2f51bf100a116a1eda27e2fc1e6a3bbf437e77"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+    "name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [TAM]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+    "name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [TEL]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
   }
 ]
