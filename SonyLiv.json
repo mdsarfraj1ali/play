@@ -1,22 +1,7 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-    "name": "Stream 1 - Round 1 - 20 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768958349~acl=/*~id=90187100154944175925519870537167~hmac=70331918d32aa42aa9aa161730eea1f72c740270ab4ca3fbb2633b0d7c1e9058"
-  },
-  {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-    "name": "Stream 1 - Round 1 - 20 Jan 2026 [HIN]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768958349~acl=/*~id=90187100154944175925519870537167~hmac=70331918d32aa42aa9aa161730eea1f72c740270ab4ca3fbb2633b0d7c1e9058"
-  },
-  {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-    "name": "Stream 1 - Round 1 - 20 Jan 2026 [TAM]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768958349~acl=/*~id=90187100154944175925519870537167~hmac=70331918d32aa42aa9aa161730eea1f72c740270ab4ca3fbb2633b0d7c1e9058"
-  },
-  {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-    "name": "Stream 1 - Round 1 - 20 Jan 2026 [TEL]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768958349~acl=/*~id=90187100154944175925519870537167~hmac=70331918d32aa42aa9aa161730eea1f72c740270ab4ca3fbb2633b0d7c1e9058"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
+    "name": "Punjab Royals vs Tiigers Of Mumbai Dangal - 20 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768963827~acl=/*~id=51396812445785177300835190904495~hmac=1c15b3fa5b1f5db5d6d8ec5a6d290e3d42e4c6812cc8c236d520c231e8d5bb49"
   }
 ]
