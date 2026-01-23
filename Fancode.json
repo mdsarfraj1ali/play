@@ -5,11 +5,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139761_english_hls_99c69b8e8927484_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139329_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Everton Women Vs Brighton And Hove Albion Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139329_english_hls_d70b72d2ba80144_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/131030_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Levante Vs Elche Cf",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8"
@@ -43,5 +38,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139997_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Groups   Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139997_english_hls_06dee3b8a183340_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139919_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed   Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139919_english_hls_fb2df978d58245_1ta-di_h264/index.m3u8"
   }
 ]
