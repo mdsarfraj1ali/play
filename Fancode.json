@@ -1,15 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140007_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "C\u00e1diz Vs Granada",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140007_english_hls_b5e8323a6812769_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139998_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Main Feed   Day 3",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140001_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Groups   Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140001_english_hls_0fde9c040487776_1ta-di_h264/index.m3u8"
@@ -28,20 +18,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/139920_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed   Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139920_english_hls_c1eb029b6c58856_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131034_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Villarreal Cf Vs Real Madrid",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131034_english_hls_dfe98e9bd026217_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131034_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Villarreal Cf Vs Real Madrid",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131034_hindi_hls_443a7f315568024_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131034_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Villarreal Cf Vs Real Madrid",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131034_bengali_hls_e67a01bc7f84986_1ta-di_h264/index.m3u8"
   }
 ]
