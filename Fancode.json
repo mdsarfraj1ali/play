@@ -5,8 +5,18 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138790_english_hls_5ea09014f279097_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139762_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Leeward Islands Women Vs Barbados Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139762_english_hls_32f335d2a827062_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139231_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Namibia Women Vs Papua New Guinea Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139231_english_hls_f732bf19c370865_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139230_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Thailand Women Vs Scotland Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139230_english_hls_d807ed9dea73382_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139391_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Auckland Vs Central Coast Mariners",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139391_english_hls_9ce265edf445250_1ta-di_h264/index.m3u8"
   }
 ]
