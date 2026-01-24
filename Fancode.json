@@ -15,6 +15,11 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131034_bengali_hls_e67a01bc7f84986_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/140007_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "C\u00e1diz Vs Granada",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140007_english_hls_b5e8323a6812769_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139998_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8"
@@ -33,15 +38,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/139999_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Marquee Group   Day 3",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139999_english_hls_70e7bed40197530_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131038_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sevilla Fc Vs Athletic Club",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131038_english_hls_5d6390fe8396622_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139827_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Neom Sc Vs Al Ahli Saudi Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139827_english_hls_d3c8c2623d33015_1ta-di_h264/index.m3u8"
   }
 ]
