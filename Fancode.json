@@ -1,32 +1,12 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/138790_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Central Hinds Vs Otago Sparks",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138790_english_hls_5ea09014f279097_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139762_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Leeward Islands Women Vs Barbados Women",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139762_english_hls_32f335d2a827062_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139994_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Main Feed   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139994_english_hls_89fb0de88046733_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139995_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Marquee Group   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139995_english_hls_e67bf0f69935880_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139996_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Holes   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139996_english_hls_c45089e8af96830_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139997_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Groups   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139997_english_hls_06dee3b8a183340_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139919_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139919_english_hls_fb2df978d58245_1ta-di_h264/index.m3u8"
   }
 ]
