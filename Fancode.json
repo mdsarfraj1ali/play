@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140006_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Deportivo La Coruna Vs Racing De Santander",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140006_english_hls_c36f151c7838808_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140002_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 4",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140002_english_hls_683a49a4bb32888_1ta-di_h264/index.m3u8"
@@ -15,23 +10,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140005_english_hls_26b6e0393330083_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140004_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Holes   Day 4",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140004_english_hls_3e7ed6e7673609_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140003_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Marquee Group   Day 4",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140003_english_hls_d7b35d49af37898_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/139921_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed   Day 4",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139921_english_hls_21935cf2d394979_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131035_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Deportivo Alaves Vs Real Betis",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131035_english_hls_39de392fee39086_1ta-di_h264/index.m3u8"
   }
 ]
