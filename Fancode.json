@@ -15,8 +15,28 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131037_bengali_hls_c493bdd7fd15113_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/131039_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Sociedad Vs Rc Celta",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131039_english_hls_446f75e7ac92585_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140002_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 4",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140002_english_hls_683a49a4bb32888_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140005_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Group   Day 4",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140005_english_hls_26b6e0393330083_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140004_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Holes   Day 4",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140004_english_hls_3e7ed6e7673609_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140003_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Marquee Group   Day 4",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140003_english_hls_d7b35d49af37898_1ta-di_h264/index.m3u8"
   }
 ]
