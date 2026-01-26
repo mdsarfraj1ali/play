@@ -8,5 +8,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/139585_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Dubai Vs Emirates Red",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139585_english_hls_62b5edcd7023872_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139829_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Al Nassr Fc Vs Al Taawoun",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139829_english_hls_12e11e4ae52390_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139586_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Emirates Blues Vs Ajman",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139586_english_hls_9536b0ef8e5728_1ta-di_h264/index.m3u8"
   }
 ]
