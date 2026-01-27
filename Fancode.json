@@ -1,7 +1,17 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Thailand Vs Lebanon",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139881_english_hls_69601d2b6b37596_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140074_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Gurugram Thunders Vs Rajasthan Lions",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140074_english_hls_b67341f10193939_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140074_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Gurugram Thunders Vs Rajasthan Lions",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140074_hindi_hls_d8e671d73b84729_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139882_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Iraq Vs Kyrgyz Republic",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139882_english_hls_e03280110543384_1ta-di_h264/index.m3u8"
   }
 ]
