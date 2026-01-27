@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
+    "name": "Stream 1 - 27 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
+    "name": "Stream 1 - 27 Jan 2026 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
+    "name": "Stream 1 - 27 Jan 2026 [TAM]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
+    "name": "Stream 1 - 27 Jan 2026 [TEL]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg",
+    "name": "3rd ODI - 27 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329926969276_WLPT20L26_pune_vs_gurugram_25jan_landscape_thumb.jpg",
+    "name": "Pune Panthers vs Gurugram Thunders - 27 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769330254386276_WLPT20L26_rajasthan_vs_maharashtra_25jan_landscape_thumb.jpg",
+    "name": "Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014231/1769427531108334_WPL26_Bengaluru_vs_Pune_26jan_landscape_thumb.jpg",
+    "name": "Bengaluru Jawans vs Pune United - 27 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769563519~acl=/*~id=18512792496899937977234964993025~hmac=dd8d72da387ded3455ab5267ea2e8375bb50c5c85cfb08aa4d8e18a65967fd5d"
+  }
+]
