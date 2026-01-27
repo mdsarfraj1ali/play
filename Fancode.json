@@ -1,22 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139765_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Guyana Women Vs Jamaica Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139765_english_hls_6845cebf6d43884_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139764_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Barbados Women Vs Leeward Islands Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139764_english_hls_e90d3e852a87021_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/139763_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Trinidad And Tobago Women Vs Windward Islands Women",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139590_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Emirates Red Vs Ajman",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139590_english_hls_c6ca9bd7fa83724_1ta-di_h264/index.m3u8"
   }
 ]
