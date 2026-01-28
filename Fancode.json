@@ -13,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139238_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Scotland Women Vs Ireland Women",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139238_english_hls_ff9bc6fe5263747_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139885_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Afghanistan Vs Saudi Arabia",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139885_english_hls_b82d6cc71332090_1ta-di_h264/index.m3u8"
   }
 ]
