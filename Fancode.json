@@ -33,5 +33,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140164_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2   Centre Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140021_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Main Feed   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140021_english_hls_9d2ae0e2065301_1ta-di_h264/index.m3u8"
   }
 ]
