@@ -2,16 +2,31 @@
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg",
     "name": "Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg",
     "name": "Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [HIN]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013449/1768459435932803_PWL_26_Punjab-Royals-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",
+    "name": "Punjab Royals vs Delhi Dangal Warriors - 29 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013449/1768459435932803_PWL_26_Punjab-Royals-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",
+    "name": "Punjab Royals vs Delhi Dangal Warriors - 29 Jan 2026 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593917860675_WPL26_Chennai-vs-Mumbai_landscape_thumb.jpg",
+    "name": "Chennai Super Champs vs Mumbai Pickleball Power - 29 Jan 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
   },
   {
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769590346822675_WPL26_Pune-vs-Hyderabad_landscape_thumb.jpg",
     "name": "Pune United vs Hyderabad Super Stars - 29 Jan 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e"
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
   }
 ]
