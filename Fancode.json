@@ -10,8 +10,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140079_hindi_hls_0e2cdff77140002_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/140132_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Ireland Vs United Arab Emirates",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140132_english_hls_d21924d2cc77509_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139596_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Ajman Vs Dubai",
+    "name": "Dubai Vs Ajman",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139596_english_hls_6f49ce3e2f58890_1ta-di_h264/index.m3u8"
   },
   {
@@ -33,10 +38,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140164_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2   Centre Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139892_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Kyrgyz Republic Vs Indonesia",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139892_english_hls_19185888522011_1ta-di_h264/index.m3u8"
   }
 ]
