@@ -25,9 +25,9 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139767_english_hls_8a982f4b4a96687_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139597_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fujairah Vs Emirates Red",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139597_english_hls_685ece0dd495473_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139831_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Al Qadsiah Fc Vs Al Hilal Sfc",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139831_english_hls_3c9127d7f227326_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140164_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -38,5 +38,25 @@
     "logo": "https://images.fancode.com/aig/match/v1/140021_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140021_english_hls_9d2ae0e2065301_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140024_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Holes   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140023_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Groups   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140023_english_hls_f1dfe15fef93729_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140022_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Marquee Group   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140022_english_hls_20028e408f83303_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139598_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Ajman Vs Sharjah",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139598_english_hls_581663139781518_1ta-di_h264/index.m3u8"
   }
 ]
