@@ -8,5 +8,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/133973_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Tasmania Women Vs Western Australia Women",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133973_english_hls_6dcdbca7d166875_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139242_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Ireland Women Vs Netherlands Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139242_english_hls_2f05c2d9ed58778_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139241_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Bangladesh Women Vs Scotland Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139241_english_hls_6864bb79d198978_1ta-di_h264/index.m3u8"
   }
 ]
