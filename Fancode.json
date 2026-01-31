@@ -10,9 +10,9 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139398_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Newcastle Jets Vs Brisbane Roar",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139398_english_hls_72d998758178749_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Sydney Fc Vs Western Sydney Wanderers",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139399_english_hls_99bb54ef5a38779_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140136_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -38,5 +38,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/140328_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 1   Table 4",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139898_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Kuwait Vs Lebanon",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139898_english_hls_e73ad2fd6f57332_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139897_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Thailand Vs Vietnam",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8"
   }
 ]
