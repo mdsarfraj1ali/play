@@ -43,5 +43,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/140168_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 4   Centre Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140031_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Main Feed   Day 3",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140034_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Holes   Day 3",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140034_english_hls_bc9889b7b389576_1ta-di_h264/index.m3u8"
   }
 ]
