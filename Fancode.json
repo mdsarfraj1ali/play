@@ -1,13 +1,18 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/138762_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Canterbury Vs Northern Districts",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140133_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Ireland Vs United Arab Emirates",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140082_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Rajasthan Lions Vs Gurugram Thunders",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140082_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Rajasthan Lions Vs Gurugram Thunders",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140082_hindi_hls_d491c0cc5667459_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_PARTNER_16_9_1920_1080.png",
