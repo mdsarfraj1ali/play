@@ -1,22 +1,32 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",
-    "name": "Stream 1 - 1 Feb 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+    "name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769977218~acl=/*~id=37109248624342866816214746934962~hmac=d19e5c413ab4f2d29b6ede7f4f8e756eb29d90f188497df98a518d95f6689110"
   },
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",
-    "name": "Stream 1 - 1 Feb 2026 [HIN]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+    "name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769977218~acl=/*~id=37109248624342866816214746934962~hmac=d19e5c413ab4f2d29b6ede7f4f8e756eb29d90f188497df98a518d95f6689110"
   },
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",
-    "name": "Stream 1 - 1 Feb 2026 [TAM]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+    "name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TAM]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769977218~acl=/*~id=37109248624342866816214746934962~hmac=d19e5c413ab4f2d29b6ede7f4f8e756eb29d90f188497df98a518d95f6689110"
   },
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",
-    "name": "Stream 1 - 1 Feb 2026 [TEL]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+    "name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TEL]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769977218~acl=/*~id=37109248624342866816214746934962~hmac=d19e5c413ab4f2d29b6ede7f4f8e756eb29d90f188497df98a518d95f6689110"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg",
+    "name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769977218~acl=/*~id=37109248624342866816214746934962~hmac=d19e5c413ab4f2d29b6ede7f4f8e756eb29d90f188497df98a518d95f6689110"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721599881157_DPworldtour_Bahrain_Championship_day4_28jan_live_landscape_thumb_re1.jpg",
+    "name": "Bahrain Championship Day 4 - 1 Feb 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769977218~acl=/*~id=37109248624342866816214746934962~hmac=d19e5c413ab4f2d29b6ede7f4f8e756eb29d90f188497df98a518d95f6689110"
   }
 ]
