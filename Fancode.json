@@ -10,13 +10,18 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140087_hindi_hls_df567760215995_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139608_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Dubai Vs Emirates Red",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139608_english_hls_d77512deae92438_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/139609_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Sharjah Vs Emirates Blues",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139609_english_hls_c2e2c192e636579_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/139834_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Riyadh Sc Vs Al Nassr Fc",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139834_english_hls_d6b0619ff036675_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140180_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8"
   }
 ]
