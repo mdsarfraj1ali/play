@@ -8,5 +8,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140086_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Rajasthan Lions Vs Delhi Warriors",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140086_hindi_hls_f09a769a4578397_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139607_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Emirates Blues Vs Ajman",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139607_english_hls_42f7164b7827313_1ta-di_h264/index.m3u8"
   }
 ]
