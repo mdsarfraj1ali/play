@@ -18,5 +18,20 @@
     "logo": "https://images.fancode.com/aig/match/v1/134032_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "New South Wales Vs South Australia",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134032_english_hls_046dbb137026643_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140371_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Club Xelaju Vs Monterrey",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140371_english_hls_2b7c51dc648363_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/134034_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Tasmania Vs Western Australia",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20720719_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140372_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Vancouver Fc Vs Cruz Azul",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140372_english_hls_b59892138f7814_1ta-di_h264/index.m3u8"
   }
 ]
