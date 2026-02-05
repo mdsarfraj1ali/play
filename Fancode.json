@@ -1,15 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/133977_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Queensland Fire Vs New South Wales Breakers",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133977_english_hls_079bcc8a0a20717_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/133978_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Victoria Women Vs South Australian Scorpions",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133978_english_hls_fac81cabc189944_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/134033_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Queensland Vs Victoria",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134033_english_hls_2b9895c52741502_1ta-di_h264/index.m3u8"
@@ -25,8 +15,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20720719_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140372_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Vancouver Fc Vs Cruz Azul",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140372_english_hls_b59892138f7814_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140320_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140320_english_hls_61025a7bd349802_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140314_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Semi   Finals",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140314_english_hls_2b98fe202644475_1ta-di_h264/index.m3u8"
   }
 ]
