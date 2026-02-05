@@ -3,5 +3,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140344_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Finals",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140344_english_hls_af79c05b9e22751_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139910_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Indonesia Vs Japan",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139910_english_hls_d72c9ca5e890131_1ta-di_h264/index.m3u8"
   }
 ]
