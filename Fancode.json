@@ -5,13 +5,13 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139622_english_hls_aa690a3ae321950_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140321_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 3",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140321_english_hls_0866837ebd87086_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140184_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 5",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140184_english_hls_b9aa361bee53415_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140395_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Main Feed   Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140395_english_hls_ed18c3829423764_1ta-di_h264/index.m3u8"
   }
 ]
