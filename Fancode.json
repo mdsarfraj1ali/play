@@ -13,20 +13,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140395_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140395_english_hls_ed18c3829423764_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140397_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Holes   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140397_english_hls_f6f8c88cba33967_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140396_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Groups   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140396_english_hls_134b91debe95022_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140041_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140041_english_hls_231affc53d40363_1ta-di_h264/index.m3u8"
   }
 ]
