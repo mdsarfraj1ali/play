@@ -23,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139911_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Indonesia Vs Ir Iran",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139911_english_hls_1ac8cc7f696053_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140185_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 6",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140185_english_hls_dd7f4c5e7332165_1ta-di_h264/index.m3u8"
   }
 ]
