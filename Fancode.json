@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/131057_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Athletic Club Vs Levante",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/131058_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Atletico De Madrid Vs Real Betis",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8"
@@ -30,8 +25,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140403_english_hls_4c21942d2238373_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/131053_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Sevilla Fc Vs Girona Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/131057_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Athletic Club Vs Levante",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8"
   }
 ]
