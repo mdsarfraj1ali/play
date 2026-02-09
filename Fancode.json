@@ -1,13 +1,8 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140194_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140194_english_hls_314df8104326579_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140541_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Centre Court",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140541_english_hls_fecb6abd2f83486_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/133943_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "South Australia Vs New South Wales",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133943_english_hls_9eed4fb7a459528_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140201_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -28,10 +23,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140531_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140531_english_hls_0ec584619423979_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131052_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Villarreal Cf Vs Rcd Espanyol",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131052_english_hls_5165f5be2816905_1ta-di_h264/index.m3u8"
   }
 ]
