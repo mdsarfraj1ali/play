@@ -3,5 +3,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140315_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140315_english_hls_0c2d07557c80676_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140324_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 6",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140324_english_hls_bdff2172b713439_1ta-di_h264/index.m3u8"
   }
 ]
