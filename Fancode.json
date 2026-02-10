@@ -5,6 +5,11 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136083_english_hls_045a2f283a32769_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/136084_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Al Ittihad Vs Al Gharafa",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136084_english_hls_bcb9fc0b8627697_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140053_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Zawraa Sc Vs Al Wasl",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140053_english_hls_477d39d9e282160_1ta-di_h264/index.m3u8"
@@ -28,5 +33,20 @@
     "logo": "https://images.fancode.com/aig/match/v1/140202_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Cancha Guillermo Vilas",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140202_english_hls_162ef3e0251699_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140188_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140188_english_hls_5f6303a72247765_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140533_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Center Court",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140533_english_hls_469c4ff14350522_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140532_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Grandstand",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140532_english_hls_84aec1c2ec1801_1ta-di_h264/index.m3u8"
   }
 ]
