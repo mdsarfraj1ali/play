@@ -5,6 +5,11 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136084_english_hls_bcb9fc0b8627697_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/139000_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Hertha Bsc Vs Sc Freiburg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139000_english_hls_1da02b1cf413076_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140543_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140543_english_hls_f65455d4a422900_1ta-di_h264/index.m3u8"
@@ -33,10 +38,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140532_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Grandstand",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140532_english_hls_84aec1c2ec1801_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139000_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Hertha Bsc Vs Sc Freiburg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139000_english_hls_1da02b1cf413076_1ta-di_h264/index.m3u8"
   }
 ]
