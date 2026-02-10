@@ -23,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140531_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140531_english_hls_0ec584619423979_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139170_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "The Bay Vs Los Angeles",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139170_english_hls_b083c3d58f92363_1ta-di_h264/index.m3u8"
   }
 ]
