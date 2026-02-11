@@ -1,15 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140055_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Cong An Ha Noi Vs Tampines Rovers Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140055_english_hls_cf4e11f5f593402_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140054_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Ratchaburi Vs Persib Bandung",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140054_english_hls_82eb349bc51285_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140056_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Fc Arkadag Vs Al Nassr Fc",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140056_english_hls_b7872d964919196_1ta-di_h264/index.m3u8"
@@ -30,8 +20,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140545_english_hls_9553b6b1d894884_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140109_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "logo": "https://images.fancode.com/aig/match/v1/139558_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140109_english_hls_bb64f8864125766_1ta-di_h264/index.m3u8"
+    "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139558_english_764790/ad-h264/index.m3u8"
   }
 ]
