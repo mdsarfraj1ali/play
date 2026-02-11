@@ -1,25 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/139001_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Bayern M\u00fcnchen Vs Rb Leipzig",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139001_english_hls_53da143fdd83634_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140407_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Paris Fc Women Vs Real Madrid Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140407_english_hls_012e44851519431_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140522_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Athletic Club Vs Real Sociedad",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140522_english_hls_b9af3ec43446223_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140528_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Swindon Town Vs Newport County",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140528_english_hls_cb9b81d62331102_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140196_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140196_english_hls_78b42dfd6d20454_1ta-di_h264/index.m3u8"
@@ -28,11 +8,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/140546_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Centre Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140546_english_hls_e5a2632a2547381_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140545_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Court 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140545_english_hls_9553b6b1d894884_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140203_CASACARDS_PARTNER_16_9_1920_1080.png",
