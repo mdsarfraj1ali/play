@@ -1,15 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140059_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Bangkok United Vs Macarthur",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140059_english_hls_9ee73e318791810_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140603_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140603_english_hls_9af047dcaa91442_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140197_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140197_english_hls_24d1fb510145499_1ta-di_h264/index.m3u8"
@@ -25,8 +15,8 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140547_english_hls_305e1e721982028_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140110_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "logo": "https://images.fancode.com/aig/match/v1/139559_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140110_english_hls_08cb67d79978949_1ta-di_h264/index.m3u8"
+    "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139559_english_888691/ad-h264/index.m3u8"
   }
 ]
