@@ -1,13 +1,8 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140196_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140196_english_hls_78b42dfd6d20454_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140546_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Centre Court",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140546_english_hls_e5a2632a2547381_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140375_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Club Am\u00e9rica Vs Olimpia",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140375_english_hls_064e3c075932636_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140203_CASACARDS_PARTNER_16_9_1920_1080.png",
