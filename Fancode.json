@@ -15,11 +15,6 @@
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140624_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Main Feed   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140624_english_hls_d638bafaa498103_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140622_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Groups   Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140622_english_hls_60966c3cc744214_1ta-di_h264/index.m3u8"
@@ -53,15 +48,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140044_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed   Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140044_english_hls_adcc9f0bfe76431_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140415_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Atletico De Madrid Femenino Vs Manchester United Women",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140523_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Atletico De Madrid Vs Fc Barcelona",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8"
   }
 ]
