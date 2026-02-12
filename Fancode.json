@@ -33,5 +33,25 @@
     "logo": "https://images.fancode.com/aig/match/v1/140623_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Holes   Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140623_english_hls_707699ed3a66489_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140190_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140190_english_hls_3c7ffd4f4463700_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140537_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Center Court",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140537_english_hls_5078e07a4116414_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140536_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Grandstand",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140536_english_hls_fc49a5919f41331_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140621_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Marquee Feed   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140621_english_hls_e838b98b2319818_1ta-di_h264/index.m3u8"
   }
 ]
