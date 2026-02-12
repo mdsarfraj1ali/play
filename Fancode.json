@@ -1,5 +1,10 @@
 [
   {
+    "logo": "https://images.fancode.com/aig/match/v1/140408_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Vfl Wolfsburg Women Vs Juventus Women",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140408_english_hls_6c9b83118488055_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140197_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140197_english_hls_24d1fb510145499_1ta-di_h264/index.m3u8"
@@ -18,5 +23,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/140624_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140624_english_hls_d638bafaa498103_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140622_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Groups   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140622_english_hls_60966c3cc744214_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140623_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Holes   Day 1",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140623_english_hls_707699ed3a66489_1ta-di_h264/index.m3u8"
   }
 ]
