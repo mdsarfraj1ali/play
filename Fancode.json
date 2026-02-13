@@ -1,28 +1,13 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140197_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140197_english_hls_24d1fb510145499_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140548_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Centre Court",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140548_english_hls_ebfcad5e0613700_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140377_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Cruz Azul Vs Vancouver Fc",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140377_english_hls_dcf5d316e965867_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140204_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Cancha Guillermo Vilas",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140622_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Groups   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140622_english_hls_60966c3cc744214_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140623_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Featured Holes   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140623_english_hls_707699ed3a66489_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140190_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -38,11 +23,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/140536_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Grandstand",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140536_english_hls_fc49a5919f41331_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Marquee Feed   Day 1",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140621_english_hls_e838b98b2319818_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140044_CASACARDS_PARTNER_16_9_1920_1080.png",
