@@ -1,15 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140377_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Cruz Azul Vs Vancouver Fc",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140377_english_hls_dcf5d316e965867_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140204_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Cancha Guillermo Vilas",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140190_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140190_english_hls_3c7ffd4f4463700_1ta-di_h264/index.m3u8"
@@ -18,11 +8,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/140537_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140537_english_hls_5078e07a4116414_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140536_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Grandstand",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140536_english_hls_fc49a5919f41331_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140044_CASACARDS_PARTNER_16_9_1920_1080.png",
