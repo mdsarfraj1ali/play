@@ -1,22 +1,17 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140604_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140604_english_hls_1cda6b52b860477_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140198_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Centre Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140198_english_hls_ec741f5b8189351_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140111_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Day 3",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140111_english_hls_6a9803fc2250629_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140549_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140549_english_hls_3bd94c769f36_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139560_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 3",
+    "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139560_english_422888/ad-h264/index.m3u8"
   }
 ]
