@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140420_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Almer\u00eda Vs Fc Andorra",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140420_english_hls_5e5b60976a84494_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140198_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Centre Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140198_english_hls_ec741f5b8189351_1ta-di_h264/index.m3u8"
@@ -23,11 +18,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/140628_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 2",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140628_english_hls_b717d6d84760625_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140625_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Marquee Feed   Day 2",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140625_english_hls_e87c1a62fb91775_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140627_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -53,15 +43,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140045_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed   Day 2",
     "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/140045_english_847333/ad-h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140640_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Grandstand",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140640_english_hls_82b355eb0690566_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131065_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Elche Cf Vs Ca Osasuna",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8"
   }
 ]
