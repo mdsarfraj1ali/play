@@ -13,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140044_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed   Day 1",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140044_english_hls_adcc9f0bfe76431_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140604_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 2",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140604_english_hls_1cda6b52b860477_1ta-di_h264/index.m3u8"
   }
 ]
