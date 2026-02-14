@@ -1,20 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140198_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Centre Court",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140198_english_hls_ec741f5b8189351_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140549_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140549_english_hls_3bd94c769f36_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140205_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Cancha Guillermo Vilas",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140205_english_hls_19519daa2163100_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140191_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140191_english_hls_bb4a0cd38111838_1ta-di_h264/index.m3u8"
@@ -23,10 +8,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140538_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140538_english_hls_abde6fad6b18281_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140045_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed   Day 2",
-    "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/140045_english_847333/ad-h264/index.m3u8"
   }
 ]
