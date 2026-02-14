@@ -38,5 +38,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140550_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140550_english_hls_08bcf354dd75469_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140206_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Cancha Guillermo Vilas",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140206_english_hls_4b681536fe90781_1ta-di_h264/index.m3u8"
   }
 ]
