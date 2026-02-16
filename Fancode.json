@@ -10,6 +10,26 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/136087_english_hls_1cc815dcc365131_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/131062_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Girona Fc Vs Fc Barcelona",
+    "link": "https://in-mc-flive.fancode.com/mumbai/131062_english_hls_116fe2ca1c73382_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/131062_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Girona Fc Vs Fc Barcelona",
+    "link": "https://in-mc-flive.fancode.com/mumbai/131062_hindi_hls_c1dd53337835733_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/131062_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Girona Fc Vs Fc Barcelona",
+    "link": "https://in-mc-flive.fancode.com/mumbai/131062_bengali_hls_7886e8e79198297_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140423_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Real Sociedad Vs M\u00e1laga",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140423_english_hls_a34bb1be5838932_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140208_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8"
@@ -20,13 +40,23 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140645_english_hls_cb3d9b991455332_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140657_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Big Cricket League Auction",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140657_english_hls_5b030653fd36048_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140295_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Court A Feed",
     "link": "https://in-mc-flive.fancode.com/mumbai/140295_english_hls_f3b17e180e56333_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140285_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140285_english_hls_549feed20283193_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140652_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Quadra 1",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140652_english_hls_4928e4ad8739560_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140650_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Quadra Guga Kuerten",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140650_english_hls_30300ce3d690494_1ta-di_h264/index.m3u8"
   }
 ]
