@@ -1,20 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/136090_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Gharafa Vs Tractor",
-    "link": "https://in-mc-flive.fancode.com/mumbai/136090_english_hls_60f0c9b33549529_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/136089_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Sadd Vs Al Ittihad",
-    "link": "https://in-mc-flive.fancode.com/mumbai/136089_english_hls_03bb8331a220163_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140060_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Wasl Vs Al Zawraa Sc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140060_english_hls_0bb6bf1bb521155_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140061_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Hussein Vs Esteghlal Fc",
     "link": "https://in-mc-flive.fancode.com/mumbai/140061_english_hls_db731f332072640_1ta-di_h264/index.m3u8"
