@@ -5,11 +5,6 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140065_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Al Nassr Fc Vs Fk Arkadag",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140065_english_hls_798f69479098734_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140064_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Al Ahli (qat) Vs Sepahan",
     "link": "https://in-mc-flive.fancode.com/mumbai/140064_english_hls_b45cecf3f649700_1ta-di_h264/index.m3u8"
@@ -18,16 +13,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/140293_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Aberdeen Vs Motherwell",
     "link": "https://in-mc-flive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140210_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-plive.fancode.com/mumbai/140210_english_hls_9121eccdb618683_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140745_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Center Court",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140745_english_hls_ebf6c65e0675571_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140746_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -60,8 +45,8 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140416_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Real Madrid Women Vs Paris Fc Women",
-    "link": "https://in-mc-plive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140065_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Al Nassr Fc Vs Fk Arkadag",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140065_english_hls_798f69479098734_1ta-di_h264/index.m3u8"
   }
 ]
