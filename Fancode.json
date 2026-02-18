@@ -1,8 +1,8 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140293_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Aberdeen Vs Motherwell",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140380_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Defense Force Vs Philadelphia Union",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140380_english_hls_8c14c35afc78977_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140297_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -28,10 +28,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140747_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Quadra Guga Kuerten",
     "link": "https://in-mc-flive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140417_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Arsenal Women Vs Oud Heverlee Leuven Women",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8"
   }
 ]
