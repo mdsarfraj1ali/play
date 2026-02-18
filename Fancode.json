@@ -10,11 +10,6 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134037_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Tasmania Vs New South Wales",
-    "link": "https://in-mc-plive.fancode.com/mumbai/134037_english_hls_26ae0af60c62361_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140601_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Day 3",
     "link": "https://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/index.m3u8"
@@ -38,5 +33,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140744_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Grandstand 1",
     "link": "https://in-mc-flive.fancode.com/mumbai/140744_english_hls_c20d98980124459_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140746_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Grandstand 2",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8"
   }
 ]
