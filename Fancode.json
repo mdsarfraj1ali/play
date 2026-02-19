@@ -1,37 +1,17 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140380_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Defense Force Vs Philadelphia Union",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140380_english_hls_8c14c35afc78977_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Victoria Vs Western Australia",
+    "link": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140381_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "O&m Fc Vs Fc Cincinnati",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/134037_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Tasmania Vs New South Wales",
+    "link": "https://in-mc-plive.fancode.com/mumbai/134037_english_hls_26ae0af60c14372_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140297_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Court A Feed",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140287_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140287_english_hls_b3a2e9f3f836316_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140749_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Quadra 2",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140749_english_hls_984da6830b3552_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140748_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Quadra 1",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140748_english_hls_c74f9b91ec61687_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140747_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Quadra Guga Kuerten",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140382_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Cs Cartagines Vs Vancouver Whitecaps Fc",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140382_english_hls_831c93db4672027_1ta-di_h264/index.m3u8"
   }
 ]
