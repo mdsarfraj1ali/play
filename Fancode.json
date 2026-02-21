@@ -2,21 +2,21 @@
   {
     "logo": "https://images.fancode.com/aig/match/v1/133947_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Tasmania Vs New South Wales",
-    "link": "https://dai.google.com/linear/hls/event/KaxUXH1iST-40L-2ePgQGw/master.m3u8"
+    "link": "https://dai.google.com/linear/hls/event/6h1jE-CYQI-tNp7M_z3qzQ/master.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/133948_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Victoria Vs Western Australia",
-    "link": "https://dai.google.com/linear/hls/event/J5QuinfXSmiPfUf2O5q0PQ/master.m3u8"
+    "link": "https://dai.google.com/linear/hls/event/OylFDK9YT9Op_7SB31SzAg/master.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140678_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Paarl East Cricket Club Vs Paarl Cc",
+    "link": "https://in-mc-plive.fancode.com/mumbai/140678_english_hls_6141da286025496_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/139414_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Sydney Fc Vs Brisbane Roar",
     "link": "https://in-mc-plive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140289_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-plive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8"
   }
 ]
