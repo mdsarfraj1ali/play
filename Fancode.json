@@ -32,6 +32,21 @@
   {
     "logo": "https://images.fancode.com/aig/match/v1/140425_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Deportivo La Coruna Vs Eibar",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8"
+    "link": "https://in-mc-plive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140574_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Groups   Day 3",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140574_english_hls_e219ac7cc959228_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140572_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Main Feed   Day 3",
+    "link": "https://in-mc-plive.fancode.com/mumbai/140572_english_hls_6001cdec6e66986_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140573_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Marquee Group   Day 3",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140573_english_hls_0cf4a170424094_1ta-di_h264/index.m3u8"
   }
 ]
