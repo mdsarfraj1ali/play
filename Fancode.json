@@ -45,8 +45,13 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140575_english_hls_e22cb13b7b73079_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/131070_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Getafe Cf Vs Sevilla Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/131070_english_hls_0a2a3cfc7877198_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140577_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Groups   Day 4",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140577_english_hls_9caaab04be34866_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140576_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Marquee Group   Day 4",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di_h264/index.m3u8"
   }
 ]
