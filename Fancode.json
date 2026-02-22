@@ -10,8 +10,18 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/140681_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Vredenburg/saldanha Cc Vs Maties Cricket Club",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140681_english_hls_398c45f75b91419_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/139416_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Central Coast Mariners Vs Western Sydney Wanderers",
     "link": "https://in-mc-flive.fancode.com/mumbai/139416_english_hls_f2e88d4f8d88432_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139417_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Newcastle Jets Vs Macarthur",
+    "link": "https://in-mc-flive.fancode.com/mumbai/139417_english_hls_5b1f17c46e61015_1ta-di_h264/index.m3u8"
   }
 ]
