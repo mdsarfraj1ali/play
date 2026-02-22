@@ -5,11 +5,6 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140139_english_hls_ea776e6d4938001_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140887_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Kerala Blasters Fc Vs Mumbai City Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140887_malayalam_hls_ca1487f4de4694_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/131077_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Fc Barcelona Vs Levante",
     "link": "https://in-mc-flive.fancode.com/mumbai/131077_english_hls_1eca0ec00b71143_1ta-di_h264/index.m3u8"
@@ -23,6 +18,11 @@
     "logo": "https://images.fancode.com/aig/match/v1/131077_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Fc Barcelona Vs Levante",
     "link": "https://in-mc-flive.fancode.com/mumbai/131077_bengali_hls_0f1136a22184717_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140683_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Maties Cricket Club Vs Paarl East Cricket Club",
+    "link": "https://in-mc-plive.fancode.com/mumbai/140683_english_hls_61d30e7f9933488_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140291_CASACARDS_PARTNER_16_9_1920_1080.png",
