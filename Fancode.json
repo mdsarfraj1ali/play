@@ -2,7 +2,7 @@
   {
     "logo": "https://images.fancode.com/aig/match/v1/133982_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Act Meteors Vs South Australian Scorpions",
-    "link": "https://in-mc-plive.fancode.com/mumbai/133982_english_hls_0a41ee57bc36345_1ta-di_h264/index.m3u8"
+    "link": "https://in-mc-flive.fancode.com/mumbai/133982_english_hls_0a41ee57bc36345_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140610_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -13,10 +13,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140609_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Lantau Cricket Club Women Vs Kowloon Cricket Club Women",
     "link": "https://in-mc-flive.fancode.com/mumbai/140609_english_hls_4792f54d6b70969_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140300_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Center Court",
-    "link": "https://in-mc-plive.fancode.com/mumbai/140300_english_hls_6dd77d72f383421_1ta-di_h264/index.m3u8"
   }
 ]
