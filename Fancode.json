@@ -10,19 +10,9 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140762_english_hls_235e455ade57861_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140575_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Main Feed   Day 4",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140575_english_hls_e22cb13b7b73079_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140577_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Groups   Day 4",
     "link": "https://in-mc-flive.fancode.com/mumbai/140577_english_hls_9caaab04be34866_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140576_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Marquee Group   Day 4",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140071_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -33,10 +23,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140301_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Center Court",
     "link": "https://in-mc-flive.fancode.com/mumbai/140301_english_hls_4c07d44fef28613_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131072_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Villarreal Cf Vs Valencia Cf",
-    "link": "https://in-mc-flive.fancode.com/mumbai/131072_english_hls_4406e5224f36759_1ta-di_h264/index.m3u8"
   }
 ]
