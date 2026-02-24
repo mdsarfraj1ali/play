@@ -13,5 +13,25 @@
     "logo": "https://images.fancode.com/aig/match/v1/139171_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Atlanta Vs Boston",
     "link": "https://dai.google.com/linear/hls/event/vCuYOYycQBSbL4-2DN84Jw/master.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140351_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140351_english_hls_fc7f3ef58a3756_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140831_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Cancha 1",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140831_english_hls_5f1a9653a843727_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140830_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Grandstand",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140830_english_hls_db79b7a9ae31299_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140829_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Estadio",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140829_english_hls_ce63c6a72971170_1ta-di_h264/index.m3u8"
   }
 ]
