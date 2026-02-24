@@ -1,7 +1,22 @@
 [
   {
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771688026410794_UEFAYouthLeague26_Roundof16_Frankfurt_vs_Sporting_CP_21feb_landscape_thumb.jpg",
-    "name": "Eintracht Frankfurt vs Sporting CP - 24 Feb 2026 [ENG]",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771988605~acl=/*~id=51240803698196697166399582184673~hmac=91f59da696f5abfe0eddb56f96d98ae69ef10e6a6065129d1983f7958d53d2fe"
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+    "name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [ENG]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+    "name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [HIN]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+    "name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [TAM]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
+  },
+  {
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+    "name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [TEL]",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
   }
 ]
