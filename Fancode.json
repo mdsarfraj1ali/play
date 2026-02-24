@@ -1,27 +1,7 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/133985_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "South Australian Scorpions Vs Act Meteors",
-    "link": "https://in-mc-flive.fancode.com/mumbai/133985_english_hls_2b559b681857065_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140351_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140351_english_hls_fc7f3ef58a3756_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140831_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Cancha 1",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140831_english_hls_5f1a9653a843727_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140830_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Grandstand",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140830_english_hls_db79b7a9ae31299_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140829_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Estadio",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140829_english_hls_ce63c6a72971170_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/default-logo.png",
+    "name": "No Live Matches Available - Check Back Later",
+    "link": ""
   }
 ]
