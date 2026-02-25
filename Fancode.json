@@ -5,6 +5,11 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140140_english_hls_62d5e081c554465_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/140686_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Paarl East Cricket Club Vs Vredenburg/saldanha Cc",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140686_english_hls_c5394d336f3763_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140347_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "New Court 1",
     "link": "https://in-mc-flive.fancode.com/mumbai/140347_english_hls_066a4acf083966_1ta-di_h264/index.m3u8"
@@ -18,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140898_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-flive.fancode.com/mumbai/140898_english_hls_202857d2b986118_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140359_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Court Jaime Fillol",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140359_english_hls_2abd95dd1c70831_1ta-di_h264/index.m3u8"
   }
 ]
