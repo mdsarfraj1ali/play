@@ -8,5 +8,25 @@
     "logo": "https://images.fancode.com/aig/match/v1/139173_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "New York Vs The Bay",
     "link": "https://dai.google.com/linear/hls/event/ZDNossZgSEO2d_Q5a0fFwg/master.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140352_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Grandstand",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140352_english_hls_2903c9f26958186_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140835_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "World Feed",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140835_english_hls_b8f11cdafd12590_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140834_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Estadio",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140834_english_hls_3d1bf1b7eb48326_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140833_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Cancha 1",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140833_english_hls_0a5ee2ba7581839_1ta-di_h264/index.m3u8"
   }
 ]
