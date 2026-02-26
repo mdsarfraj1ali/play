@@ -13,5 +13,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140900_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Centre Court",
     "link": "https://in-mc-flive.fancode.com/mumbai/140900_english_hls_3ef58d911f71613_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140764_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Main Feed   Day 1",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140764_english_hls_f3471073d849721_1ta-di_h264/index.m3u8"
   }
 ]
