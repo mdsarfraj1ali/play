@@ -8,20 +8,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140672_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Bahrain Vs Japan",
     "link": "https://in-mc-flive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140388_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "La Galaxy Vs Sporting Sm",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140837_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Estadio",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140837_english_hls_7088112fd980269_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140839_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8"
   }
 ]
