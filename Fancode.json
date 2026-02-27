@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140594_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "New Zealand Women Vs Zimbabwe Women",
-    "link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140664_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "England Lions Vs Pakistan Shaheens",
     "link": "https://in-mc-flive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8"
@@ -18,11 +13,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/139418_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Melbourne Victory Vs Adelaide United",
     "link": "https://in-mc-flive.fancode.com/mumbai/139418_english_hls_ee35c9f6d587051_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/139924_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Thailand Gp",
-    "link": "https://in-mc-flive.fancode.com/mumbai/139924_english_hls_df8a015c4f81523_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140349_CASACARDS_PARTNER_16_9_1920_1080.png",
