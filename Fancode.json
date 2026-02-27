@@ -48,5 +48,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/140902_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-flive.fancode.com/mumbai/140902_english_hls_fef36d5c5380265_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140361_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Court Jaime Fillol",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140361_english_hls_19562be86045847_1ta-di_h264/index.m3u8"
   }
 ]
