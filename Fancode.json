@@ -1,8 +1,23 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140688_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Paarl Cc Vs Paarl East Cricket Club",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140688_english_hls_d8e850d5db29569_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140447_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Bengaluru Fc Vs Punjab Fc",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140447_english_hls_c3582d2f4685935_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140447_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Bengaluru Fc Vs Punjab Fc",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140447_hindi_hls_dbe37d732896446_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140447_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Bengaluru Fc Vs Punjab Fc",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140447_malayalam_hls_ec9c855aa225752_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140447_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Bengaluru Fc Vs Punjab Fc",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140447_bengali_hls_8e40760ed495908_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140349_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -33,30 +48,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140902_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed",
     "link": "https://in-mc-flive.fancode.com/mumbai/140902_english_hls_fef36d5c5380265_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "East Bengal Fc Vs Jamshedpur Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140446_english_hls_622b4e9fc94478_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "East Bengal Fc Vs Jamshedpur Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140446_hindi_hls_bb6ca17ad669097_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "East Bengal Fc Vs Jamshedpur Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140446_malayalam_hls_edbd2e60e779618_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "East Bengal Fc Vs Jamshedpur Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/141086_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "East Bengal Fc Vs Jamshedpur Fc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/141086_bengali_hls_4ecea82e2954892_1ta-di_h264/index.m3u8"
   }
 ]
