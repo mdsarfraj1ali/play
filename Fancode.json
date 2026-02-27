@@ -23,5 +23,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139924_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Thailand Gp",
     "link": "https://in-mc-flive.fancode.com/mumbai/139924_english_hls_df8a015c4f81523_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140349_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Centre Court",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8"
   }
 ]
