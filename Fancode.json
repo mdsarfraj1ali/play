@@ -35,6 +35,11 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140129_english_hls_eecaeedf8a25876_1ta-di_h264/index.m3u8"
   },
   {
+    "logo": "https://images.fancode.com/aig/match/v1/131089_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Rayo Vallecano Vs Athletic Club",
+    "link": "https://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/index.m3u8"
+  },
+  {
     "logo": "https://images.fancode.com/aig/match/v1/140774_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Main Feed   Day 3",
     "link": "https://in-mc-flive.fancode.com/mumbai/140774_english_hls_2c2200de6810581_1ta-di_h264/index.m3u8"
@@ -48,5 +53,15 @@
     "logo": "https://images.fancode.com/aig/match/v1/140776_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Featured Groups   Day 3",
     "link": "https://in-mc-flive.fancode.com/mumbai/140776_english_hls_5e5cba4b3886404_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140775_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Marquee Group   Day 3",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140777_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Featured Holes   Day 3",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140777_english_hls_9609f6d6ce80839_1ta-di_h264/index.m3u8"
   }
 ]
