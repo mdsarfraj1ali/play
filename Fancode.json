@@ -5,11 +5,6 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/140141_english_hls_c7e54df6c689484_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140692_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Vredenburg/saldanha Cc Vs Paarl Cc",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140692_english_hls_4beadff46b45381_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/131087_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Rcd Mallorca Vs Real Sociedad",
     "link": "https://in-mc-flive.fancode.com/mumbai/131087_english_hls_e9a90d99ac98527_1ta-di_h264/index.m3u8"
@@ -38,20 +33,5 @@
     "logo": "https://images.fancode.com/aig/match/v1/140773_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "World Feed   Day 3",
     "link": "https://in-mc-flive.fancode.com/mumbai/140773_english_hls_f0d09727f189310_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Villarreal Cf",
-    "link": "https://in-mc-flive.fancode.com/mumbai/131084_english_hls_c2042aefad65938_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Villarreal Cf",
-    "link": "https://in-mc-flive.fancode.com/mumbai/131084_hindi_hls_29447a4b4179686_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Fc Barcelona Vs Villarreal Cf",
-    "link": "https://in-mc-flive.fancode.com/mumbai/131084_bengali_hls_ff4b32271542008_1ta-di_h264/index.m3u8"
   }
 ]
