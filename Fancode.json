@@ -1,8 +1,13 @@
 [
   {
     "logo": "https://images.fancode.com/aig/match/v1/140675_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Thailand Vs Bhutan",
+    "name": "Bhutan Vs Thailand",
     "link": "https://in-mc-flive.fancode.com/mumbai/140675_english_hls_91116a5ec721003_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/139419_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Auckland Vs Melbourne City",
+    "link": "https://in-mc-flive.fancode.com/mumbai/139419_english_hls_d66694d18114618_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/140356_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -23,5 +28,10 @@
     "logo": "https://images.fancode.com/aig/match/v1/139925_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Thailand Gp",
     "link": "https://in-mc-flive.fancode.com/mumbai/139925_english_hls_97398699b253223_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140783_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Day 1",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140783_english_hls_20fcdf78d45827_1ta-di_h264/index.m3u8"
   }
 ]
