@@ -12,7 +12,7 @@
   {
     "logo": "https://images.fancode.com/aig/match/v1/134039_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Tasmania Vs Victoria",
-    "link": "https://in-mc-plive.fancode.com/mumbai/134039_english_hls_218ba2772e41715_1ta-di_h264/index.m3u8"
+    "link": "https://in-mc-flive.fancode.com/mumbai/134039_english_hls_218ba2772e41715_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/134040_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -23,6 +23,11 @@
     "logo": "https://images.fancode.com/aig/match/v1/134038_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Queensland Vs Western Australia",
     "link": "https://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3670906_1ta-di_h264/index.m3u8"
+  },
+  {
+    "logo": "https://images.fancode.com/aig/match/v1/140800_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Philippines Women Vs Korea Republic Women",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140800_english_hls_5b02b4227249185_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/141006_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -40,18 +45,8 @@
     "link": "https://in-mc-flive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/141231_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "G Court Feed",
-    "link": "https://in-mc-plive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/141229_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "D Court Feed",
-    "link": "https://in-mc-plive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/index.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/141228_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "C Court Feed",
-    "link": "https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8"
+    "link": "https://in-mc-flive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8"
   }
 ]
