@@ -1,27 +1,12 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134039_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Victoria Vs Tasmania",
-    "link": "https://in-mc-flive.fancode.com/mumbai/134039_english_hls_218ba2772e94080_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/141255_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Lightning Legends Vs Jp Sports",
+    "link": "https://in-mc-flive.fancode.com/mumbai/141255_english_hls_197d05fbd248087_1ta-di_h264/index.m3u8"
   },
   {
-    "logo": "https://images.fancode.com/aig/match/v1/134040_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "New South Wales Vs South Australia",
-    "link": "https://in-mc-flive.fancode.com/mumbai/134040_english_hls_2b4391587451222_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/134038_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Western Australia Vs Queensland",
-    "link": "https://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3660662_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/141009_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "B Court Feed",
-    "link": "https://in-mc-flive.fancode.com/mumbai/141009_english_hls_4e141f956945974_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/141007_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "World Feed",
-    "link": "https://in-mc-flive.fancode.com/mumbai/141007_english_hls_235afc8e7567465_1ta-di_h264/index.m3u8"
+    "logo": "https://images.fancode.com/aig/match/v1/140803_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "name": "Uzbekistan Women Vs China Pr Women",
+    "link": "https://in-mc-flive.fancode.com/mumbai/140803_english_hls_74e606873292705_1ta-di_h264/index.m3u8"
   }
 ]
